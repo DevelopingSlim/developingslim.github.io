@@ -1,26 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather App</title>
-    <link rel="stylesheet" href="weather.css">
-</head>
-<body>
-    <div id="weather-container">
-        <h2>Simple Weather App</h2>
-        <input type="text" id="city" placeholder="Enter city">
-        <button onclick="getWeather()">Search</button>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <title>Document</title>
+    <link rel="stylesheet" href="weather.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="search-box">
+        <i class="bx bxs-map"></i>
+        <input type="text" placeholder="enter your location" />
+        <button class="bx bx-search"></button>
+      </div>
+      <p class="city-hide">city hide</p>
 
-        <img id="weather-icon" alt="Weather Icon">
-
-        <div id="temp-div"></div>
-
-        <div id="weather-info"></div>
-
-        <div id="hourly-forecast"></div>
+      <div class="weather-box">
+        <div class="box">
+          <div class="info-weather">
+            <div class="weather">
+              <img src="Assets/images/cloud.png" alt="" />
+              <p class="temperature">16<span>C</span></p>
+              <p class="decription">Broken Clouds</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="weather-details">
+        <div class="humidity">
+          <i class="bx bx-water"></i>
+          <div class="text">
+            <div class="info-humidity">
+              <span>0%</span>
+            </div>
+            <p>humidity</p>
+          </div>
+        </div>
+        <div class="wind">
+          <i class="bx bx-wind"></i>
+          <div class="text">
+            <div class="info-wind">
+              <span>0Km/h</span>
+            </div>
+            <p>Wind Speed</p>
+          </div>
+        </div>
+      </div>
+      <div class="not-found">
+        <div class="box">
+          <img src="Assets/images/404.png" />
+          <p>Oops! Location not found!</p>
+        </div>
+      </div>
     </div>
-
-    <script src="weather.js"></script>
-</body>
+    <script src="Assets/js/main.js"></script>
+  </body>
 </html>
