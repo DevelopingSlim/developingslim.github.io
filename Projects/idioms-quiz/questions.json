@@ -1,0 +1,3642 @@
+[
+    {
+        "question": "irritated/bad mood",
+        "choice1": "rack sb's brains",
+        "choice2": "a bear with a sore head",
+        "choice3": "break even",
+        "choice4": "make head nor tail of",
+        "answer": 2
+    },
+    {
+        "question": "person with hidden abilities",
+        "choice1": "all told",
+        "choice2": "by definition",
+        "choice3": "brainwave",
+        "choice4": "a bit of a dark horse",
+        "answer": 4
+    },
+    {
+        "question": "a difficult fact to accept",
+        "choice1": "hold one's horses",
+        "choice2": "stand in sb's way",
+        "choice3": "a bitter pill to swallow",
+        "choice4": "come to the point",
+        "answer": 3
+    },
+    {
+        "question": "a totally different sitation from the one just mentioned",
+        "choice1": "be second to none",
+        "choice2": "a different kettle of fish",
+        "choice3": "behind the scenes",
+        "choice4": "red tape",
+        "answer": 2
+    },
+    {
+        "question": "a difficult, hard life",
+        "choice1": "a dog's life",
+        "choice2": "be full of beans",
+        "choice3": "whet sb's appetite",
+        "choice4": "wet behind the ears",
+        "answer": 1
+    },
+    {
+        "question": "sb who feels uncomfortable",
+        "choice1": "fight like cat and dog",
+        "choice2": "bite off more than sb can chew",
+        "choice3": "up and coming",
+        "choice4": "a fish out of water",
+        "answer": 4
+    },
+    {
+        "question": "a wild guess/ a risk",
+        "choice1": "be on the defensive",
+        "choice2": "take to one's heels",
+        "choice3": "a long shot",
+        "choice4": "lend an ear",
+        "answer": 3
+    },
+    {
+        "question": "a poor memory",
+        "choice1": "make a dog's dinner",
+        "choice2": "a memory like a sieve",
+        "choice3": "be ahead of one's time",
+        "choice4": "have an eye for",
+        "answer": 2
+    },
+    {
+        "question": "person who enjoys staying up late",
+        "choice1": "a night owl",
+        "choice2": "go to the dogs",
+        "choice3": "be in the know",
+        "choice4": "let sleeping dogs lie",
+        "answer": 1
+    },
+    {
+        "question": "annoying person/thing",
+        "choice1": "a pain in the neck",
+        "choice2": "get your own back",
+        "choice3": "make one's getaway",
+        "choice4": "get cold feet",
+        "answer": 1
+    },
+    {
+        "question": "sth very easy to do",
+        "choice1": "a piece of cake",
+        "choice2": "beat sb black and blue",
+        "choice3": "get a bit hot under the collar",
+        "choice4": "under the weather",
+        "answer": 1
+    },
+    {
+        "question": "action, comment, etc. liable to provoke sb",
+        "choice1": "see eye to eye with sb",
+        "choice2": "drop sb a line",
+        "choice3": "a red rag to a bull",
+        "choice4": "be out of practice",
+        "answer": 3
+    },
+    {
+        "question": "a very important day",
+        "choice1": "a red-letter day",
+        "choice2": "the last straw",
+        "choice3": "cook one's goose",
+        "choice4": "be fit for",
+        "answer": 1
+    },
+    {
+        "question": "an easy target",
+        "choice1": "hit the roof",
+        "choice2": "with a view to doing sth",
+        "choice3": "a sitting duck",
+        "choice4": "fly off the handle",
+        "answer": 3
+    },
+    {
+        "question": "a lot of fuss about sth that is not important",
+        "choice1": "a storm in a teacup",
+        "choice2": "to no effect",
+        "choice3": "slow on the uptake",
+        "choice4": "out of the blue",
+        "answer": 1
+    },
+    {
+        "question": "a hopeless search",
+        "choice1": "for all I know",
+        "choice2": "keep one's fingers crossed",
+        "choice3": "a wild-goose chase",
+        "choice4": "have the cheek",
+        "answer": 3
+    },
+    {
+        "question": "honest",
+        "choice1": "before one can say Jack Robinson",
+        "choice2": "hit the nail on the head",
+        "choice3": "golden opportunity",
+        "choice4": "above board",
+        "answer": 4
+    },
+    {
+        "question": "weakest point of sb's character",
+        "choice1": "go by the board",
+        "choice2": "like water off a duck's back",
+        "choice3": "be/have a close shave",
+        "choice4": "Achilles heel",
+        "answer": 4
+    },
+    {
+        "question": "despite the difficulties",
+        "choice1": "lend an ear",
+        "choice2": "get out of bed on the wrong side",
+        "choice3": "see fit",
+        "choice4": "against all odds",
+        "answer": 4
+    },
+    {
+        "question": "stop arguing because there is no chance of agreement",
+        "choice1": "out of turn",
+        "choice2": "agree to disagree",
+        "choice3": "beg the question",
+        "choice4": "in a tick",
+        "answer": 2
+    },
+    {
+        "question": "from the beginning until now",
+        "choice1": "see fit",
+        "choice2": "speak volumes",
+        "choice3": "all along",
+        "choice4": "make a clean breast of",
+        "answer": 3
+    },
+    {
+        "question": "nearly, almost",
+        "choice1": "be for the high jump",
+        "choice2": "have no fixed abode",
+        "choice3": "hit the sack",
+        "choice4": "all but",
+        "answer": 4
+    },
+    {
+        "question": "exhausted",
+        "choice1": "deal a blow to",
+        "choice2": "all in",
+        "choice3": "stand in sb's way",
+        "choice4": "keep a straight face",
+        "answer": 2
+    },
+    {
+        "question": "when everything is considered",
+        "choice1": "all the same",
+        "choice2": "in public",
+        "choice3": "all in all",
+        "choice4": "wet behind the ears",
+        "answer": 3
+    },
+    {
+        "question": "yet, however",
+        "choice1": "all the same",
+        "choice2": "make allowances for",
+        "choice3": "red herring",
+        "choice4": "be all at sea",
+        "answer": 1
+    },
+    {
+        "question": "altogether",
+        "choice1": "pop the question",
+        "choice2": "all told",
+        "choice3": "point the finger of suspicion",
+        "choice4": "like the back of one's hand",
+        "answer": 2
+    },
+    {
+        "question": "false belief",
+        "choice1": "go to one's head",
+        "choice2": "put one's foot down",
+        "choice3": "an old wives' tale",
+        "choice4": "sth comes in handy",
+        "answer": 3
+    },
+    {
+        "question": "person or thing that one has no experience of",
+        "choice1": "make money hand over fist",
+        "choice2": "different as chalk and cheese",
+        "choice3": "an unknown quantity",
+        "choice4": "once in a blue moon",
+        "answer": 3
+    },
+    {
+        "question": "when all else has failed",
+        "choice1": "make allowances for",
+        "choice2": "beat about/around the bush",
+        "choice3": "as a last resort",
+        "choice4": "be over the moon",
+        "answer": 3
+    },
+    {
+        "question": "in a direct line/ by a direct route",
+        "choice1": "as the crow flies",
+        "choice2": "status symbol",
+        "choice3": "hit the roof",
+        "choice4": "not hold water",
+        "answer": 1
+    },
+    {
+        "question": "from a short distance",
+        "choice1": "under the weather",
+        "choice2": "put a damper on",
+        "choice3": "red herring",
+        "choice4": "at close quarters",
+        "answer": 4
+    },
+    {
+        "question": "free, not caught",
+        "choice1": "of no consequence",
+        "choice2": "stew in one's own juice",
+        "choice3": "at large",
+        "choice4": "have an eye for",
+        "answer": 3
+    },
+    {
+        "question": "at the forefront of",
+        "choice1": "at the cutting edge",
+        "choice2": "put sb's name forward",
+        "choice3": "put on a brave face",
+        "choice4": "to no effect",
+        "answer": 1
+    },
+    {
+        "question": "have a false idea about sth",
+        "choice1": "not have it both ways",
+        "choice2": "come to the point",
+        "choice3": "bark up the wrong tree",
+        "choice4": "let sleeping dogs lie",
+        "answer": 3
+    },
+    {
+        "question": "have modern ideas",
+        "choice1": "be ahead of one's time",
+        "choice2": "stew in one's own juice",
+        "choice3": "take sb for granted",
+        "choice4": "green with envy",
+        "answer": 1
+    },
+    {
+        "question": "be in a state of confusion",
+        "choice1": "put one's foot in it",
+        "choice2": "be all at sea",
+        "choice3": "be tickled pink",
+        "choice4": "lose one's head",
+        "answer": 2
+    },
+    {
+        "question": "be awkward, clumsy",
+        "choice1": "have butterflies in one's stomach",
+        "choice2": "stay clear of",
+        "choice3": "see red",
+        "choice4": "be all fingers and thumbs",
+        "answer": 4
+    },
+    {
+        "question": "appear satisfactory but in fact not be",
+        "choice1": "be all very well",
+        "choice2": "in a rut",
+        "choice3": "don't hold your breath",
+        "choice4": "flat broke",
+        "answer": 1
+    },
+    {
+        "question": "very busy",
+        "choice1": "deal a blow to",
+        "choice2": "cut sb to the quick",
+        "choice3": "be as busy as a bee",
+        "choice4": "be born yesterday",
+        "answer": 3
+    },
+    {
+        "question": "be stupid",
+        "choice1": "be as thick as a brick",
+        "choice2": "in the offing",
+        "choice3": "make money hand over fist",
+        "choice4": "take things to pieces",
+        "answer": 1
+    },
+    {
+        "question": "to be extremely angry",
+        "choice1": "get nowhere fast",
+        "choice2": "get a move on",
+        "choice3": "be beside oneself with anger",
+        "choice4": "blaze a trail",
+        "answer": 3
+    },
+    {
+        "question": "be easily deceived/ naive",
+        "choice1": "in a flash",
+        "choice2": "flat broke",
+        "choice3": "be born yesterday",
+        "choice4": "the tip of the iceberg",
+        "answer": 3
+    },
+    {
+        "question": "have no/very little money",
+        "choice1": "be broke",
+        "choice2": "turn a blind eye to sth",
+        "choice3": "make a living",
+        "choice4": "for all I care",
+        "answer": 1
+    },
+    {
+        "question": "be caught while committing a crime",
+        "choice1": "lay the table",
+        "choice2": "catch sb red-handed",
+        "choice3": "have at one's fingertips",
+        "choice4": "up in the air",
+        "answer": 2
+    },
+    {
+        "question": "really want sth",
+        "choice1": "be for the high jump",
+        "choice2": "be dying for sth",
+        "choice3": "be thrown off balance",
+        "choice4": "break the ice",
+        "answer": 2
+    },
+    {
+        "question": "be good enough for",
+        "choice1": "in broad daylight",
+        "choice2": "be fit for",
+        "choice3": "touch and go",
+        "choice4": "paint the town red",
+        "answer": 2
+    },
+    {
+        "question": "about to be punished",
+        "choice1": "play cat and mouse with sb",
+        "choice2": "see fit",
+        "choice3": "be for the high jump",
+        "choice4": "eat one's heart out",
+        "answer": 3
+    },
+    {
+        "question": "be very lively",
+        "choice1": "cut sb to the quick",
+        "choice2": "in the offing",
+        "choice3": "take sth with a pinch of salt",
+        "choice4": "be full of beans",
+        "answer": 4
+    },
+    {
+        "question": "be inexperienced",
+        "choice1": "with flying colours",
+        "choice2": "be green",
+        "choice3": "talk the hind legs off a donkey",
+        "choice4": "be/have a close shave",
+        "answer": 2
+    },
+    {
+        "question": "be confused",
+        "choice1": "hear it through the grapevine",
+        "choice2": "be in a quandary",
+        "choice3": "fall head over heels",
+        "choice4": "have sb's hands full",
+        "answer": 2
+    },
+    {
+        "question": "out of favour",
+        "choice1": "have time on one's hands",
+        "choice2": "be in sb's black books",
+        "choice3": "in the balance",
+        "choice4": "for all I care",
+        "answer": 2
+    },
+    {
+        "question": "be in sb's position",
+        "choice1": "drop sb a line",
+        "choice2": "be in sb's shoes",
+        "choice3": "in a tick",
+        "choice4": "point the finger of suspicion",
+        "answer": 2
+    },
+    {
+        "question": "be unaware of sth",
+        "choice1": "be in the dark about sth",
+        "choice2": "keep oneself to oneself",
+        "choice3": "keep one's wits about one",
+        "choice4": "pay sb's way",
+        "answer": 1
+    },
+    {
+        "question": "be out of favour, in trouble",
+        "choice1": "rain cats and dogs",
+        "choice2": "jack of all trades",
+        "choice3": "be in the doghouse",
+        "choice4": "in deep water",
+        "answer": 3
+    },
+    {
+        "question": "be well-informed",
+        "choice1": "be/have a close shave",
+        "choice2": "by definition",
+        "choice3": "be in the know",
+        "choice4": "take sth to heart",
+        "answer": 3
+    },
+    {
+        "question": "be in the same (usually bad) situation",
+        "choice1": "claim to fame",
+        "choice2": "be in the same boat",
+        "choice3": "cut corners",
+        "choice4": "lost cause",
+        "answer": 2
+    },
+    {
+        "question": "not be able to decide what to do",
+        "choice1": "in a flash",
+        "choice2": "be in two minds about sth",
+        "choice3": "give chapter and verse",
+        "choice4": "like water off a duck's back",
+        "answer": 2
+    },
+    {
+        "question": "be likely to happen",
+        "choice1": "by force of habit",
+        "choice2": "take one's time",
+        "choice3": "the black sheep of the family",
+        "choice4": "be on the cards",
+        "answer": 4
+    },
+    {
+        "question": "protect oneself because one feels insecure or threatened",
+        "choice1": "more to sb than meets the eye",
+        "choice2": "make a killing",
+        "choice3": "slow on the uptake",
+        "choice4": "be on the defensive",
+        "answer": 4
+    },
+    {
+        "question": "improve steadily",
+        "choice1": "be on the up and up",
+        "choice2": "beg the question",
+        "choice3": "slow on the uptake",
+        "choice4": "few and far between",
+        "answer": 1
+    },
+    {
+        "question": "lacking practice",
+        "choice1": "short and sweet",
+        "choice2": "put the cat among the pigeons",
+        "choice3": "be out of practice",
+        "choice4": "feel down in the mouth",
+        "answer": 3
+    },
+    {
+        "question": "be elated",
+        "choice1": "be over the moon",
+        "choice2": "point the finger of suspicion",
+        "choice3": "blow a fuse",
+        "choice4": "part and parcel of",
+        "answer": 1
+    },
+    {
+        "question": "be the best",
+        "choice1": "bide one's time",
+        "choice2": "get cold feet",
+        "choice3": "up in the air",
+        "choice4": "be second to none",
+        "answer": 4
+    },
+    {
+        "question": "sleep deeply",
+        "choice1": "give way to",
+        "choice2": "in deep water",
+        "choice3": "give and take",
+        "choice4": "be sound asleep",
+        "answer": 4
+    },
+    {
+        "question": "be very precious to sb",
+        "choice1": "play it by ear",
+        "choice2": "black tie",
+        "choice3": "be the apple of sb's eye",
+        "choice4": "keep a straight face",
+        "answer": 3
+    },
+    {
+        "question": "look exactly like sb",
+        "choice1": "be the splitting image of sb",
+        "choice2": "ill at ease",
+        "choice3": "tongue in cheek",
+        "choice4": "with flying colours",
+        "answer": 1
+    },
+    {
+        "question": "be surprised",
+        "choice1": "on account of",
+        "choice2": "big cheese",
+        "choice3": "be thrown off balance",
+        "choice4": "in public",
+        "answer": 3
+    },
+    {
+        "question": "be really pleased",
+        "choice1": "make head nor tail of",
+        "choice2": "be tickled pink",
+        "choice3": "drive a hard bargain",
+        "choice4": "off colour",
+        "answer": 2
+    },
+    {
+        "question": "have recovered from an illness",
+        "choice1": "pull one's socks up",
+        "choice2": "hit the sack",
+        "choice3": "be up and about",
+        "choice4": "let sleeping dogs lie",
+        "answer": 3
+    },
+    {
+        "question": "be very angry",
+        "choice1": "be up in arms",
+        "choice2": "take sth on the chin",
+        "choice3": "green with envy",
+        "choice4": "cook one's goose",
+        "answer": 1
+    },
+    {
+        "question": "be very tired",
+        "choice1": "fall into place",
+        "choice2": "up in the air",
+        "choice3": "be worn out",
+        "choice4": "make sb's day",
+        "answer": 3
+    },
+    {
+        "question": "be/get very wet",
+        "choice1": "keep up with the Joneses",
+        "choice2": "be/get soaked to the skin",
+        "choice3": "for donkey's years",
+        "choice4": "get rid of sth",
+        "answer": 2
+    },
+    {
+        "question": "barely avoid an accident/ a bad situation",
+        "choice1": "have words with sb",
+        "choice2": "be/have a close shave",
+        "choice3": "once in a blue moon",
+        "choice4": "break the ice",
+        "answer": 2
+    },
+    {
+        "question": "be successful",
+        "choice1": "bear fruit",
+        "choice2": "grow out of sth",
+        "choice3": "out of the question",
+        "choice4": "on the air",
+        "answer": 1
+    },
+    {
+        "question": "avoid saying what one means directly",
+        "choice1": "make a dog's dinner",
+        "choice2": "have many irons in the fire",
+        "choice3": "strike a chord",
+        "choice4": "beat about/around the bush",
+        "answer": 4
+    },
+    {
+        "question": "hit sb repeatedly until bruised",
+        "choice1": "beat sb black and blue",
+        "choice2": "drive a hard bargain",
+        "choice3": "for all",
+        "choice4": "hear it through the grapevine",
+        "answer": 1
+    },
+    {
+        "question": "extremely quickly",
+        "choice1": "before one can say Jack Robinson",
+        "choice2": "call it quits",
+        "choice3": "take things to pieces",
+        "choice4": "thick-skinned",
+        "answer": 1
+    },
+    {
+        "question": "makes people want to ask a particular question",
+        "choice1": "red herring",
+        "choice2": "on edge",
+        "choice3": "beg the question",
+        "choice4": "shed light upon",
+        "answer": 3
+    },
+    {
+        "question": "in prison",
+        "choice1": "no wonder",
+        "choice2": "lose one's head",
+        "choice3": "in a flash",
+        "choice4": "behind bars",
+        "answer": 4
+    },
+    {
+        "question": "in secret",
+        "choice1": "know the ropes",
+        "choice2": "behind the scenes",
+        "choice3": "bite off more than sb can chew",
+        "choice4": "moon around",
+        "answer": 2
+    },
+    {
+        "question": "cruel and unfair",
+        "choice1": "below the belt",
+        "choice2": "the black sheep of the family",
+        "choice3": "on the ball",
+        "choice4": "fly on the wall",
+        "answer": 1
+    },
+    {
+        "question": "wait for a good opportunity",
+        "choice1": "in the red",
+        "choice2": "bide one's time",
+        "choice3": "get a bit hot under the collar",
+        "choice4": "rack sb's brains",
+        "answer": 2
+    },
+    {
+        "question": "person with important job/position",
+        "choice1": "take sth to heart",
+        "choice2": "big cheese",
+        "choice3": "for donkey's years",
+        "choice4": "wet blanket",
+        "answer": 2
+    },
+    {
+        "question": "conceited",
+        "choice1": "face the music",
+        "choice2": "big-headed",
+        "choice3": "black tie",
+        "choice4": "come out of one's shell",
+        "answer": 2
+    },
+    {
+        "question": "try to do sth which is too difficult",
+        "choice1": "bite off more than sb can chew",
+        "choice2": "sleep on it",
+        "choice3": "wash sb's hands of sb",
+        "choice4": "drop sb a line",
+        "answer": 1
+    },
+    {
+        "question": "covered with bruises",
+        "choice1": "kill two birds with one stone",
+        "choice2": "make light of",
+        "choice3": "in the balance",
+        "choice4": "black and blue all over",
+        "answer": 4
+    },
+    {
+        "question": "formal clothing",
+        "choice1": "have at one's fingertips",
+        "choice2": "black tie",
+        "choice3": "turn a blind eye to sth",
+        "choice4": "hit the roof",
+        "answer": 2
+    },
+    {
+        "question": "discover sth new",
+        "choice1": "off the cuff",
+        "choice2": "blaze a trail",
+        "choice3": "have an eye for",
+        "choice4": "the tip of the iceberg",
+        "answer": 2
+    },
+    {
+        "question": "sth which appears bad at first but then turns out favourably",
+        "choice1": "the last straw",
+        "choice2": "with a view to doing sth",
+        "choice3": "golden opportunity",
+        "choice4": "blessing in disguise",
+        "answer": 4
+    },
+    {
+        "question": "become very angry",
+        "choice1": "have a frog in one's throat",
+        "choice2": "in the act of",
+        "choice3": "blow a fuse",
+        "choice4": "know the ropes",
+        "answer": 3
+    },
+    {
+        "question": "a favoured person",
+        "choice1": "break the ice",
+        "choice2": "every nook and cranny",
+        "choice3": "blue-eyed boy",
+        "choice4": "give way to",
+        "answer": 3
+    },
+    {
+        "question": "suddenly",
+        "choice1": "call it quits",
+        "choice2": "bolt from the blue",
+        "choice3": "make a mountain out of a molehill",
+        "choice4": "browned off",
+        "answer": 2
+    },
+    {
+        "question": "sudden clear idea/thought",
+        "choice1": "brainwave",
+        "choice2": "in the offing",
+        "choice3": "in the abstract",
+        "choice4": "make a mountain out of a molehill",
+        "answer": 1
+    },
+    {
+        "question": "show neither loss nor profit",
+        "choice1": "out of the blue",
+        "choice2": "lost cause",
+        "choice3": "look at sth though rose-coloured spectacles",
+        "choice4": "break even",
+        "answer": 4
+    },
+    {
+        "question": "ease the tensione when one first meets people",
+        "choice1": "point the finger of suspicion",
+        "choice2": "of no consequence",
+        "choice3": "break the ice",
+        "choice4": "tooth and nail",
+        "answer": 3
+    },
+    {
+        "question": "make sb understand how important or serious sth is",
+        "choice1": "have the gift of the gab",
+        "choice2": "on the air",
+        "choice3": "put one's foot down",
+        "choice4": "bring sth home to sb",
+        "answer": 4
+    },
+    {
+        "question": "destroy, humble",
+        "choice1": "see the back of",
+        "choice2": "plenty more fish in the sea",
+        "choice3": "bring to one's knees",
+        "choice4": "on the ball",
+        "answer": 3
+    },
+    {
+        "question": "fed up",
+        "choice1": "once and for all",
+        "choice2": "hear it through the grapevine",
+        "choice3": "fall into place",
+        "choice4": "browned off",
+        "answer": 4
+    },
+    {
+        "question": "avoid or ignore reality/responsibility",
+        "choice1": "bury one's head in the sand",
+        "choice2": "have the gift of the gab",
+        "choice3": "in a nutshell",
+        "choice4": "make waves",
+        "answer": 1
+    },
+    {
+        "question": "flatter sb",
+        "choice1": "chip off the old block",
+        "choice2": "hear it through the grapevine",
+        "choice3": "with a view to doing sth",
+        "choice4": "butter sb up",
+        "answer": 4
+    },
+    {
+        "question": "generally speaking",
+        "choice1": "by and large",
+        "choice2": "keep sth under one's hat",
+        "choice3": "out of the blue",
+        "choice4": "call sb names",
+        "answer": 1
+    },
+    {
+        "question": "having a quality simply because of what it is",
+        "choice1": "make light of",
+        "choice2": "by definition",
+        "choice3": "on account of",
+        "choice4": "on the blink",
+        "answer": 2
+    },
+    {
+        "question": "used to doing sth without thinking",
+        "choice1": "it stands to reason",
+        "choice2": "go to one's head",
+        "choice3": "by force of habit",
+        "choice4": "give sb the slip",
+        "answer": 3
+    },
+    {
+        "question": "learning from one's mistakes",
+        "choice1": "face the music",
+        "choice2": "by trial and error",
+        "choice3": "call it quits",
+        "choice4": "have sb's hands full",
+        "answer": 2
+    },
+    {
+        "question": "give up/stop",
+        "choice1": "call it quits",
+        "choice2": "take the bull by the horns",
+        "choice3": "under the weather",
+        "choice4": "pull a few strings",
+        "answer": 1
+    },
+    {
+        "question": "insult sb",
+        "choice1": "until the cows come home",
+        "choice2": "keep sth under one's hat",
+        "choice3": "look down one's nose at sb",
+        "choice4": "call sb names",
+        "answer": 4
+    },
+    {
+        "question": "criticise",
+        "choice1": "keep one's wits about one",
+        "choice2": "on the dole",
+        "choice3": "cast aspersions",
+        "choice4": "not have the foggiest idea",
+        "answer": 3
+    },
+    {
+        "question": "preside over a meeting",
+        "choice1": "gatecrasher",
+        "choice2": "fine kettle of fish",
+        "choice3": "have a frog in one's throat",
+        "choice4": "chair a meeting",
+        "answer": 4
+    },
+    {
+        "question": "sb who is very like one of his parents",
+        "choice1": "in a flash",
+        "choice2": "chip off the old block",
+        "choice3": "to no effect",
+        "choice4": "get wind of",
+        "answer": 2
+    },
+    {
+        "question": "keep changing (your mind)",
+        "choice1": "keep sth under one's hat",
+        "choice2": "chop and change",
+        "choice3": "strike gold",
+        "choice4": "get nowhere fast",
+        "answer": 2
+    },
+    {
+        "question": "thing which makes sb unusual",
+        "choice1": "play cat and mouse with sb",
+        "choice2": "out-and-out",
+        "choice3": "on the ball",
+        "choice4": "claim to fame",
+        "answer": 4
+    },
+    {
+        "question": "remove suspicion/bad feeling",
+        "choice1": "clear the air",
+        "choice2": "throw a party",
+        "choice3": "take sth on the chin",
+        "choice4": "different as chalk and cheese",
+        "answer": 1
+    },
+    {
+        "question": "admit the truth",
+        "choice1": "see the back of",
+        "choice2": "come clean",
+        "choice3": "fine kettle of fish",
+        "choice4": "make a name for oneself",
+        "answer": 2
+    },
+    {
+        "question": "gain personal confidence",
+        "choice1": "on account of",
+        "choice2": "have butterflies in one's stomach",
+        "choice3": "have words with sb",
+        "choice4": "come out of one's shell",
+        "answer": 4
+    },
+    {
+        "question": "reach a critical point",
+        "choice1": "smell a rat",
+        "choice2": "come to a head",
+        "choice3": "on this/that account",
+        "choice4": "lose heart",
+        "answer": 2
+    },
+    {
+        "question": "not progress/stop",
+        "choice1": "on edge",
+        "choice2": "make a living",
+        "choice3": "come to a standstill",
+        "choice4": "in the black",
+        "answer": 3
+    },
+    {
+        "question": "accept a difficult situation",
+        "choice1": "come to terms with",
+        "choice2": "in the long run",
+        "choice3": "until the cows come home",
+        "choice4": "hit the roof",
+        "answer": 1
+    },
+    {
+        "question": "become important or popular",
+        "choice1": "the ins and outs",
+        "choice2": "come to the fore",
+        "choice3": "on the dot",
+        "choice4": "green belt",
+        "answer": 2
+    },
+    {
+        "question": "reach the main point in a discussion",
+        "choice1": "speak volumes",
+        "choice2": "on second thoughts",
+        "choice3": "come to the point",
+        "choice4": "the last straw",
+        "answer": 3
+    },
+    {
+        "question": "end one's plans abruptly",
+        "choice1": "one's flesh and blood",
+        "choice2": "up and coming",
+        "choice3": "get nowhere fast",
+        "choice4": "cook one's goose",
+        "answer": 4
+    },
+    {
+        "question": "very expensive",
+        "choice1": "make a mountain out of a molehill",
+        "choice2": "take one's time",
+        "choice3": "in the act of",
+        "choice4": "cost a bomb",
+        "answer": 4
+    },
+    {
+        "question": "be very expensive",
+        "choice1": "cost an arm and a leg",
+        "choice2": "go for a song",
+        "choice3": "red tape",
+        "choice4": "give and take",
+        "answer": 1
+    },
+    {
+        "question": "restrict one's behaviour in some way",
+        "choice1": "like the back of one's hand",
+        "choice2": "on the dot",
+        "choice3": "jack of all trades",
+        "choice4": "cramp one's style",
+        "answer": 4
+    },
+    {
+        "question": "false tears",
+        "choice1": "out of the frying pan into the fire",
+        "choice2": "give chapter and verse",
+        "choice3": "crocodile tears",
+        "choice4": "go back on one's word",
+        "answer": 3
+    },
+    {
+        "question": "think of sth",
+        "choice1": "not count one's chickens before they're hatched",
+        "choice2": "hit the nail on the head",
+        "choice3": "cross one's mind",
+        "choice4": "get off on the wrong foot",
+        "answer": 3
+    },
+    {
+        "question": "grieve over sth that can't be put right",
+        "choice1": "in a rut",
+        "choice2": "cry over spilt milk",
+        "choice3": "have kittens",
+        "choice4": "fair and square",
+        "answer": 2
+    },
+    {
+        "question": "be less thorough",
+        "choice1": "drive sb up the wall",
+        "choice2": "cut corners",
+        "choice3": "play cat and mouse with sb",
+        "choice4": "on the air",
+        "answer": 2
+    },
+    {
+        "question": "ignore sb",
+        "choice1": "give sb the cold shoulder",
+        "choice2": "in public",
+        "choice3": "fly on the wall",
+        "choice4": "hit the sack",
+        "answer": 1
+    },
+    {
+        "question": "deeply hurt sb's feelings",
+        "choice1": "in the red",
+        "choice2": "cut sb to the quick",
+        "choice3": "work a miracle",
+        "choice4": "swim like a fish",
+        "answer": 2
+    },
+    {
+        "question": "reduced to the minimum",
+        "choice1": "cut to the bone",
+        "choice2": "make amends for",
+        "choice3": "plenty more fish in the sea",
+        "choice4": "sth comes in handy",
+        "answer": 1
+    },
+    {
+        "question": "damage one's hopes",
+        "choice1": "frosty welcome",
+        "choice2": "deal a blow to",
+        "choice3": "off the point",
+        "choice4": "make waves",
+        "answer": 2
+    },
+    {
+        "question": "totally different",
+        "choice1": "stay clear of",
+        "choice2": "different as chalk and cheese",
+        "choice3": "in arrears",
+        "choice4": "get wind of",
+        "answer": 2
+    },
+    {
+        "question": "is it obvious?",
+        "choice1": "out in the open",
+        "choice2": "keep up with the Joneses",
+        "choice3": "no room to swing a cat",
+        "choice4": "does it show?",
+        "answer": 4
+    },
+    {
+        "question": "ruthless competition, rivalry",
+        "choice1": "in a tick",
+        "choice2": "donkey work",
+        "choice3": "dog eat dog",
+        "choice4": "make a mountain out of a molehill",
+        "answer": 3
+    },
+    {
+        "question": "(of books) with the corners bent and turned down through use",
+        "choice1": "have a yellow streak",
+        "choice2": "dog-eared",
+        "choice3": "on the air",
+        "choice4": "take sth on the chin",
+        "answer": 2
+    },
+    {
+        "question": "continue to do sth you know rather than trying sth new",
+        "choice1": "make a living",
+        "choice2": "up and coming",
+        "choice3": "don't give up your day job",
+        "choice4": "point the finger of suspicion",
+        "answer": 3
+    },
+    {
+        "question": "don't wait for sb/sth anxiously",
+        "choice1": "down the drain",
+        "choice2": "get rid of sth",
+        "choice3": "have at one's fingertips",
+        "choice4": "don't hold your breath",
+        "answer": 4
+    },
+    {
+        "question": "boring, monotonous work",
+        "choice1": "red herring",
+        "choice2": "donkey work",
+        "choice3": "see red",
+        "choice4": "out of print",
+        "answer": 2
+    },
+    {
+        "question": "a long time",
+        "choice1": "off the record",
+        "choice2": "slip one's mind",
+        "choice3": "donkey's years",
+        "choice4": "the year dot",
+        "answer": 3
+    },
+    {
+        "question": "depressed/miserable",
+        "choice1": "ease off",
+        "choice2": "down in the dumps",
+        "choice3": "for all I know",
+        "choice4": "in the flesh",
+        "answer": 2
+    },
+    {
+        "question": "wasted",
+        "choice1": "down the drain",
+        "choice2": "shed light upon",
+        "choice3": "not hold water",
+        "choice4": "make a living",
+        "answer": 1
+    },
+    {
+        "question": "be a tough businessman",
+        "choice1": "go to the dogs",
+        "choice2": "put words into one's mouth",
+        "choice3": "not count one's chickens before they're hatched",
+        "choice4": "drive a hard bargain",
+        "answer": 4
+    },
+    {
+        "question": "make sb angry/annoy sb",
+        "choice1": "keep one's fingers crossed",
+        "choice2": "make money hand over fist",
+        "choice3": "drive sb up the wall",
+        "choice4": "put two and two together",
+        "answer": 3
+    },
+    {
+        "question": "say sth tactlessly",
+        "choice1": "drop a brick",
+        "choice2": "in a tick",
+        "choice3": "keep oneself to oneself",
+        "choice4": "like water off a duck's back",
+        "answer": 1
+    },
+    {
+        "question": "send sb a letter",
+        "choice1": "drop sb a line",
+        "choice2": "strike gold",
+        "choice3": "in a flash",
+        "choice4": "every nook and cranny",
+        "answer": 1
+    },
+    {
+        "question": "reduce in degree, speed or intensity",
+        "choice1": "in the abstract",
+        "choice2": "ease off",
+        "choice3": "make a name for oneself",
+        "choice4": "the pot calling the kettle black",
+        "answer": 2
+    },
+    {
+        "question": "feel jealous/ sad about sth",
+        "choice1": "make a living",
+        "choice2": "eat one's heart out",
+        "choice3": "in a nutshell",
+        "choice4": "kick the bucket",
+        "answer": 2
+    },
+    {
+        "question": "everywhere",
+        "choice1": "have words with sb",
+        "choice2": "every nook and cranny",
+        "choice3": "in clover",
+        "choice4": "put down roots",
+        "answer": 2
+    },
+    {
+        "question": "be criticised or punished for sth you have done",
+        "choice1": "in a flash",
+        "choice2": "it's all Greek to me",
+        "choice3": "kick the bucket",
+        "choice4": "face the music",
+        "answer": 4
+    },
+    {
+        "question": "within the rules",
+        "choice1": "get out of hand",
+        "choice2": "pitch black",
+        "choice3": "wet blanket",
+        "choice4": "fair and square",
+        "answer": 4
+    },
+    {
+        "question": "fall in love quickly",
+        "choice1": "fall head over heels",
+        "choice2": "fall into place",
+        "choice3": "sweet tooth",
+        "choice4": "hit the nail on the head",
+        "answer": 1
+    },
+    {
+        "question": "become clear",
+        "choice1": "make amends for",
+        "choice2": "fall into place",
+        "choice3": "give the green light to sth",
+        "choice4": "slow on the uptake",
+        "answer": 2
+    },
+    {
+        "question": "feel discouraged/depressed",
+        "choice1": "put on a brave face",
+        "choice2": "like water off a duck's back",
+        "choice3": "feel down in the mouth",
+        "choice4": "not have the foggiest idea",
+        "answer": 3
+    },
+    {
+        "question": "feeling sth instinctively",
+        "choice1": "the rat race",
+        "choice2": "feel in one's bones",
+        "choice3": "of its own accord",
+        "choice4": "to no effect",
+        "answer": 2
+    },
+    {
+        "question": "have a feeling that sb is talking about you",
+        "choice1": "feel one's ears burning",
+        "choice2": "live out of a suitcase",
+        "choice3": "take one's time",
+        "choice4": "make a name for oneself",
+        "answer": 1
+    },
+    {
+        "question": "scarce/rare",
+        "choice1": "few and far between",
+        "choice2": "in arrears",
+        "choice3": "get cold feet",
+        "choice4": "go by the board",
+        "answer": 1
+    },
+    {
+        "question": "disagree violently",
+        "choice1": "on no account",
+        "choice2": "on the spur of the moment",
+        "choice3": "fight like cat and dog",
+        "choice4": "take sth into account",
+        "answer": 3
+    },
+    {
+        "question": "confused state of affairs",
+        "choice1": "fine kettle of fish",
+        "choice2": "kill two birds with one stone",
+        "choice3": "not lose any sleep over sth",
+        "choice4": "out-and-out",
+        "answer": 1
+    },
+    {
+        "question": "penniless",
+        "choice1": "flat broke",
+        "choice2": "get your own back",
+        "choice3": "one's flesh and blood",
+        "choice4": "kill time",
+        "answer": 1
+    },
+    {
+        "question": "waste time doing sth useless",
+        "choice1": "get rid of sth",
+        "choice2": "flog a dead horse",
+        "choice3": "speak volumes",
+        "choice4": "lay the table",
+        "answer": 2
+    },
+    {
+        "question": "quickly become very angry",
+        "choice1": "fly off the handle",
+        "choice2": "hear it through the grapevine",
+        "choice3": "stew in one's own juice",
+        "choice4": "out of bounds",
+        "answer": 1
+    },
+    {
+        "question": "see/hear sth in a situation which does not involve you",
+        "choice1": "it stands to reason",
+        "choice2": "out of print",
+        "choice3": "make a name for oneself",
+        "choice4": "fly on the wall",
+        "answer": 4
+    },
+    {
+        "question": "in spite of",
+        "choice1": "let sleeping dogs lie",
+        "choice2": "get out of bed on the wrong side",
+        "choice3": "for all",
+        "choice4": "gatecrasher",
+        "answer": 3
+    },
+    {
+        "question": "I don't care",
+        "choice1": "sleep like a dog",
+        "choice2": "have a yellow streak",
+        "choice3": "off the cuff",
+        "choice4": "for all I care",
+        "answer": 4
+    },
+    {
+        "question": "as far as I know",
+        "choice1": "for all I know",
+        "choice2": "until the cows come home",
+        "choice3": "on this/that account",
+        "choice4": "in the red",
+        "answer": 1
+    },
+    {
+        "question": "for a very long time",
+        "choice1": "for donkey's years",
+        "choice2": "stay clear of",
+        "choice3": "wash sb's hands of sb",
+        "choice4": "have sb's hands full",
+        "answer": 1
+    },
+    {
+        "question": "temporarily",
+        "choice1": "have the gift of the gab",
+        "choice2": "get a move on",
+        "choice3": "out and about",
+        "choice4": "for the time being",
+        "answer": 4
+    },
+    {
+        "question": "unfriendly reception",
+        "choice1": "make light of",
+        "choice2": "have a bee in one's bonnet",
+        "choice3": "frosty welcome",
+        "choice4": "not all it's cracked up to be",
+        "answer": 3
+    },
+    {
+        "question": "sb attending a party without an invitation",
+        "choice1": "make a dog's dinner",
+        "choice2": "gatecrasher",
+        "choice3": "out of turn",
+        "choice4": "keep an eye on sth",
+        "answer": 2
+    },
+    {
+        "question": "get angry, upset or embarrassed",
+        "choice1": "lost cause",
+        "choice2": "on a shoe string",
+        "choice3": "get a bit hot under the collar",
+        "choice4": "on the blink",
+        "answer": 3
+    },
+    {
+        "question": "hurry up",
+        "choice1": "get a move on",
+        "choice2": "sth comes in handy",
+        "choice3": "keep one's chin up",
+        "choice4": "shed light upon",
+        "answer": 1
+    },
+    {
+        "question": "tell sb else about your problem",
+        "choice1": "keep a straight face",
+        "choice2": "get a problem off one's chest",
+        "choice3": "like the back of one's hand",
+        "choice4": "go to any lengths",
+        "answer": 2
+    },
+    {
+        "question": "lose courage to do sth",
+        "choice1": "up and coming",
+        "choice2": "have a job to do sth",
+        "choice3": "the lion's share",
+        "choice4": "get cold feet",
+        "answer": 4
+    },
+    {
+        "question": "be nervous or frightened because sth might fail",
+        "choice1": "not have it both ways",
+        "choice2": "get cold feet",
+        "choice3": "jack of all trades",
+        "choice4": "go to one's head",
+        "answer": 2
+    },
+    {
+        "question": "make no progress",
+        "choice1": "get out of hand",
+        "choice2": "hold one's horses",
+        "choice3": "make a killing",
+        "choice4": "get nowhere fast",
+        "answer": 4
+    },
+    {
+        "question": "argue or disagree at the beginning of a relationship",
+        "choice1": "get off on the wrong foot",
+        "choice2": "have many irons in the fire",
+        "choice3": "in a rut",
+        "choice4": "out of bounds",
+        "answer": 1
+    },
+    {
+        "question": "irritate/annoy sb",
+        "choice1": "on the alert",
+        "choice2": "see eye to eye with sb",
+        "choice3": "get on one's nerves",
+        "choice4": "white-collar job",
+        "answer": 3
+    },
+    {
+        "question": "be in a bad mood",
+        "choice1": "without fail",
+        "choice2": "give chapter and verse",
+        "choice3": "shed light upon",
+        "choice4": "get out of bed on the wrong side",
+        "answer": 4
+    },
+    {
+        "question": "become out of control",
+        "choice1": "on the blink",
+        "choice2": "get out of hand",
+        "choice3": "off the cuff",
+        "choice4": "off colour",
+        "answer": 2
+    },
+    {
+        "question": "give sth unwanted away",
+        "choice1": "look down one's nose at sb",
+        "choice2": "get rid of sth",
+        "choice3": "in clover",
+        "choice4": "tooth and nail",
+        "answer": 2
+    },
+    {
+        "question": "get in the habit of doing sth",
+        "choice1": "get the hang of it",
+        "choice2": "go to the dogs",
+        "choice3": "have a yellow streak",
+        "choice4": "pull a few strings",
+        "answer": 1
+    },
+    {
+        "question": "be dismissed from one's job",
+        "choice1": "in a rut",
+        "choice2": "of its own accord",
+        "choice3": "make a name for oneself",
+        "choice4": "get the sack",
+        "answer": 4
+    },
+    {
+        "question": "misunderstand completely what has been said",
+        "choice1": "see the back of",
+        "choice2": "in clover",
+        "choice3": "hit the sack",
+        "choice4": "get the wrong end of the stick",
+        "answer": 4
+    },
+    {
+        "question": "receive information about sth indirectly",
+        "choice1": "get wind of",
+        "choice2": "make allowances for",
+        "choice3": "have words with sb",
+        "choice4": "see the back of",
+        "answer": 1
+    },
+    {
+        "question": "take/get revenge",
+        "choice1": "make money hand over fist",
+        "choice2": "get your own back",
+        "choice3": "give vent to",
+        "choice4": "have no option but",
+        "answer": 2
+    },
+    {
+        "question": "compromise",
+        "choice1": "give and take",
+        "choice2": "give the green light to sth",
+        "choice3": "stew in one's own juice",
+        "choice4": "not have the foggiest idea",
+        "answer": 1
+    },
+    {
+        "question": "give every exact detail",
+        "choice1": "out of the question",
+        "choice2": "part company with",
+        "choice3": "put a damper on",
+        "choice4": "give chapter and verse",
+        "answer": 4
+    },
+    {
+        "question": "escape from sb",
+        "choice1": "look at sth though rose-coloured spectacles",
+        "choice2": "out of the question",
+        "choice3": "give sb the slip",
+        "choice4": "have an early night",
+        "answer": 3
+    },
+    {
+        "question": "give permission to proceed with sth",
+        "choice1": "red herring",
+        "choice2": "give the green light to sth",
+        "choice3": "ups and downs",
+        "choice4": "of all people",
+        "answer": 2
+    },
+    {
+        "question": "express sth freely",
+        "choice1": "put the cat among the pigeons",
+        "choice2": "spill the beans",
+        "choice3": "give vent to",
+        "choice4": "look down one's nose at sb",
+        "answer": 3
+    },
+    {
+        "question": "give in/yield",
+        "choice1": "live out of a suitcase",
+        "choice2": "jack of all trades",
+        "choice3": "play truant",
+        "choice4": "give way to",
+        "answer": 4
+    },
+    {
+        "question": "not fulfil a promise",
+        "choice1": "make one's getaway",
+        "choice2": "the year dot",
+        "choice3": "take sth to heart",
+        "choice4": "go back on one's word",
+        "answer": 4
+    },
+    {
+        "question": "be rejected",
+        "choice1": "have butterflies in one's stomach",
+        "choice2": "have at one's fingertips",
+        "choice3": "sleep on it",
+        "choice4": "go by the board",
+        "answer": 4
+    },
+    {
+        "question": "be sold very cheaply",
+        "choice1": "go for a song",
+        "choice2": "in clover",
+        "choice3": "the life and soul of sth",
+        "choice4": "kill time",
+        "answer": 1
+    },
+    {
+        "question": "do anything necessary to get sth you want",
+        "choice1": "go to any lengths",
+        "choice2": "hit the roof",
+        "choice3": "once and for all",
+        "choice4": "in the act of",
+        "answer": 1
+    },
+    {
+        "question": "make conceited",
+        "choice1": "go to one's head",
+        "choice2": "have one's heart in one's mouth",
+        "choice3": "grey matter",
+        "choice4": "kill two birds with one stone",
+        "answer": 1
+    },
+    {
+        "question": "worsen",
+        "choice1": "go to the dogs",
+        "choice2": "in public",
+        "choice3": "in a flash",
+        "choice4": "make one's blood boil",
+        "answer": 1
+    },
+    {
+        "question": "be a foregone conclusion",
+        "choice1": "wet blanket",
+        "choice2": "go without saying",
+        "choice3": "have the gift of the gab",
+        "choice4": "the rat race",
+        "answer": 2
+    },
+    {
+        "question": "the best chance to gain sth",
+        "choice1": "hit the sack",
+        "choice2": "golden opportunity",
+        "choice3": "take sth with a pinch of salt",
+        "choice4": "through thick and thin",
+        "answer": 2
+    },
+    {
+        "question": "bribe sb",
+        "choice1": "not lose any sleep over sth",
+        "choice2": "wet blanket",
+        "choice3": "not be one's cup of tea",
+        "choice4": "grease sb's palm",
+        "answer": 4
+    },
+    {
+        "question": "the area on the outskirts of a town adjoining the country",
+        "choice1": "green belt",
+        "choice2": "show one's true colours",
+        "choice3": "under the weather",
+        "choice4": "red tape",
+        "answer": 1
+    },
+    {
+        "question": "very jealous",
+        "choice1": "not lose any sleep over sth",
+        "choice2": "one's flesh and blood",
+        "choice3": "green with envy",
+        "choice4": "make a name for oneself",
+        "answer": 3
+    },
+    {
+        "question": "brains",
+        "choice1": "lay the table",
+        "choice2": "straight from the horse's mouth",
+        "choice3": "grey matter",
+        "choice4": "show one's true colours",
+        "answer": 3
+    },
+    {
+        "question": "become too big for sth",
+        "choice1": "grow out of sth",
+        "choice2": "make money hand over fist",
+        "choice3": "have the gift of the gab",
+        "choice4": "keep one's chin up",
+        "answer": 1
+    },
+    {
+        "question": "be in very close contact with sb",
+        "choice1": "like water off a duck's back",
+        "choice2": "on second thoughts",
+        "choice3": "it stands to reason",
+        "choice4": "hand in glove with sb",
+        "answer": 4
+    },
+    {
+        "question": "have an obsession about sth",
+        "choice1": "have a bee in one's bonnet",
+        "choice2": "hit the nail on the head",
+        "choice3": "in the abstract",
+        "choice4": "more to sb than meets the eye",
+        "answer": 1
+    },
+    {
+        "question": "inability to speak due to nervousness",
+        "choice1": "like a bull in a china shop",
+        "choice2": "have a frog in one's throat",
+        "choice3": "on edge",
+        "choice4": "out of the frying pan into the fire",
+        "answer": 2
+    },
+    {
+        "question": "find sth difficult to do",
+        "choice1": "take to one's heels",
+        "choice2": "through thick and thin",
+        "choice3": "lay the table",
+        "choice4": "have a job to do sth",
+        "answer": 4
+    },
+    {
+        "question": "tend to say unkind or hurtful things",
+        "choice1": "have a sharp tongue",
+        "choice2": "smell a rat",
+        "choice3": "on the ball",
+        "choice4": "paint the town red",
+        "answer": 1
+    },
+    {
+        "question": "be a coward",
+        "choice1": "slip one's mind",
+        "choice2": "like water off a duck's back",
+        "choice3": "put words into one's mouth",
+        "choice4": "have a yellow streak",
+        "answer": 4
+    },
+    {
+        "question": "go to bed early",
+        "choice1": "have an early night",
+        "choice2": "paint the town red",
+        "choice3": "kill two birds with one stone",
+        "choice4": "on the air",
+        "answer": 1
+    },
+    {
+        "question": "be a good judge of sth",
+        "choice1": "pay sb's way",
+        "choice2": "until one is blue in the face",
+        "choice3": "take it easy",
+        "choice4": "have an eye for",
+        "answer": 4
+    },
+    {
+        "question": "be good at judging the worth of sth",
+        "choice1": "have the gift of the gab",
+        "choice2": "the rat race",
+        "choice3": "have an eye for",
+        "choice4": "out of print",
+        "answer": 3
+    },
+    {
+        "question": "have easily available",
+        "choice1": "tooth and nail",
+        "choice2": "point the finger of suspicion",
+        "choice3": "ill at ease",
+        "choice4": "have at one's fingertips",
+        "answer": 4
+    },
+    {
+        "question": "be very nervous about sth",
+        "choice1": "have butterflies in one's stomach",
+        "choice2": "make quite a scene",
+        "choice3": "not be one's cup of tea",
+        "choice4": "in a nutshell",
+        "answer": 1
+    },
+    {
+        "question": "be nervous/anxious about sth",
+        "choice1": "have kittens",
+        "choice2": "moon around",
+        "choice3": "lose one's nerve",
+        "choice4": "out and about",
+        "answer": 1
+    },
+    {
+        "question": "have lots of plans in progress at the same time",
+        "choice1": "pay sb's way",
+        "choice2": "on the face of it",
+        "choice3": "have many irons in the fire",
+        "choice4": "off colour",
+        "answer": 3
+    },
+    {
+        "question": "be homeless",
+        "choice1": "in a rut",
+        "choice2": "have no fixed abode",
+        "choice3": "make a killing",
+        "choice4": "speak volumes",
+        "answer": 2
+    },
+    {
+        "question": "must",
+        "choice1": "of no consequence",
+        "choice2": "white elephant",
+        "choice3": "to no effect",
+        "choice4": "have no option but",
+        "answer": 4
+    },
+    {
+        "question": "be extremely anxious about sth",
+        "choice1": "part company with",
+        "choice2": "have one's heart in one's mouth",
+        "choice3": "it stands to reason",
+        "choice4": "in a tick",
+        "answer": 2
+    },
+    {
+        "question": "be very busy with sth",
+        "choice1": "have sb's hands full",
+        "choice2": "in black and white",
+        "choice3": "rack sb's brains",
+        "choice4": "take sth with a pinch of salt",
+        "answer": 1
+    },
+    {
+        "question": "dare to do sth",
+        "choice1": "have the cheek",
+        "choice2": "like water off a duck's back",
+        "choice3": "pick someone's brains",
+        "choice4": "pull a few strings",
+        "answer": 1
+    },
+    {
+        "question": "be able to talk well",
+        "choice1": "out and about",
+        "choice2": "out of the frying pan into the fire",
+        "choice3": "swim like a fish",
+        "choice4": "have the gift of the gab",
+        "answer": 4
+    },
+    {
+        "question": "have free time",
+        "choice1": "know the ropes",
+        "choice2": "have time on one's hands",
+        "choice3": "put the cat among the pigeons",
+        "choice4": "keep one's chin up",
+        "answer": 2
+    },
+    {
+        "question": "have an argument",
+        "choice1": "in a nutshell",
+        "choice2": "hear it through the grapevine",
+        "choice3": "have words with sb",
+        "choice4": "in a rut",
+        "answer": 3
+    },
+    {
+        "question": "find out information indirectly",
+        "choice1": "stay clear of",
+        "choice2": "on the alert",
+        "choice3": "hear it through the grapevine",
+        "choice4": "more to sb than meets the eye",
+        "answer": 3
+    },
+    {
+        "question": "say exactly the right thing",
+        "choice1": "touch and go",
+        "choice2": "hit the nail on the head",
+        "choice3": "let the cat out of the bag",
+        "choice4": "in arrears",
+        "answer": 2
+    },
+    {
+        "question": "get very angry",
+        "choice1": "on the blink",
+        "choice2": "hit the roof",
+        "choice3": "keep sth under one's hat",
+        "choice4": "out of turn",
+        "answer": 2
+    },
+    {
+        "question": "go to bed",
+        "choice1": "moon around",
+        "choice2": "tooth and nail",
+        "choice3": "hit the sack",
+        "choice4": "strike gold",
+        "answer": 3
+    },
+    {
+        "question": "wait",
+        "choice1": "wet behind the ears",
+        "choice2": "hold one's horses",
+        "choice3": "not have the foggiest idea",
+        "choice4": "turn a blind eye to sth",
+        "answer": 2
+    },
+    {
+        "question": "embarassed",
+        "choice1": "make allowances for",
+        "choice2": "in broad daylight",
+        "choice3": "ill at ease",
+        "choice4": "sleep on it",
+        "answer": 3
+    },
+    {
+        "question": "very quickly",
+        "choice1": "make money hand over fist",
+        "choice2": "in a nutshell",
+        "choice3": "in a flash",
+        "choice4": "make a dog's dinner",
+        "answer": 3
+    },
+    {
+        "question": "briefly",
+        "choice1": "the tip of the iceberg",
+        "choice2": "out of the frying pan into the fire",
+        "choice3": "in a nutshell",
+        "choice4": "mutton dressed as a lamb",
+        "answer": 3
+    },
+    {
+        "question": "be stuck in a monotonous routine",
+        "choice1": "on second thoughts",
+        "choice2": "in a rut",
+        "choice3": "of all people",
+        "choice4": "in the offing",
+        "answer": 2
+    },
+    {
+        "question": "shortly, soon",
+        "choice1": "out of bounds",
+        "choice2": "the last straw",
+        "choice3": "in a tick",
+        "choice4": "take it easy",
+        "answer": 3
+    },
+    {
+        "question": "halted temporarily",
+        "choice1": "in abeyance",
+        "choice2": "put two and two together",
+        "choice3": "pull a few strings",
+        "choice4": "set in one's ways",
+        "answer": 1
+    },
+    {
+        "question": "have not paid the money they owe",
+        "choice1": "not hold water",
+        "choice2": "make a clean breast of",
+        "choice3": "in arrears",
+        "choice4": "wet behind the ears",
+        "answer": 3
+    },
+    {
+        "question": "in writing",
+        "choice1": "keep in check",
+        "choice2": "slip one's mind",
+        "choice3": "in black and white",
+        "choice4": "under the weather",
+        "answer": 3
+    },
+    {
+        "question": "in full view of the public",
+        "choice1": "in the offing",
+        "choice2": "in broad daylight",
+        "choice3": "the pot calling the kettle black",
+        "choice4": "slow on the uptake",
+        "answer": 2
+    },
+    {
+        "question": "living a luxurious and comfortable life",
+        "choice1": "not have it both ways",
+        "choice2": "make head nor tail of",
+        "choice3": "in the long run",
+        "choice4": "in clover",
+        "answer": 4
+    },
+    {
+        "question": "in trouble/difficulty",
+        "choice1": "point the finger of suspicion",
+        "choice2": "in deep water",
+        "choice3": "in full flow",
+        "choice4": "make a mountain out of a molehill",
+        "answer": 2
+    },
+    {
+        "question": "talking at length",
+        "choice1": "no wonder",
+        "choice2": "in full flow",
+        "choice3": "straight from the horse's mouth",
+        "choice4": "rain cats and dogs",
+        "answer": 2
+    },
+    {
+        "question": "in the presence of other people",
+        "choice1": "play it by ear",
+        "choice2": "part and parcel of",
+        "choice3": "in public",
+        "choice4": "of its own accord",
+        "answer": 3
+    },
+    {
+        "question": "in a general way",
+        "choice1": "put two and two together",
+        "choice2": "in the abstract",
+        "choice3": "keep one's fingers crossed",
+        "choice4": "on no account",
+        "answer": 2
+    },
+    {
+        "question": "while performing the act",
+        "choice1": "under the weather",
+        "choice2": "on a shoe string",
+        "choice3": "make a mountain out of a molehill",
+        "choice4": "in the act of",
+        "answer": 4
+    },
+    {
+        "question": "uncertain",
+        "choice1": "on account of",
+        "choice2": "in the balance",
+        "choice3": "look at sth though rose-coloured spectacles",
+        "choice4": "on this/that account",
+        "answer": 2
+    },
+    {
+        "question": "not owing anybody any money",
+        "choice1": "make hay while the sun shines",
+        "choice2": "put one's foot down",
+        "choice3": "in the black",
+        "choice4": "keep oneself to oneself",
+        "answer": 3
+    },
+    {
+        "question": "in person",
+        "choice1": "take to one's heels",
+        "choice2": "part company with",
+        "choice3": "wet behind the ears",
+        "choice4": "in the flesh",
+        "answer": 4
+    },
+    {
+        "question": "after a long period of time",
+        "choice1": "in the long run",
+        "choice2": "make money hand over fist",
+        "choice3": "see the back of",
+        "choice4": "thick-skinned",
+        "answer": 1
+    },
+    {
+        "question": "just in time",
+        "choice1": "off colour",
+        "choice2": "rise to the challenge",
+        "choice3": "in the nick of time",
+        "choice4": "put sb's name forward",
+        "answer": 3
+    },
+    {
+        "question": "likely to happen",
+        "choice1": "look down one's nose at sb",
+        "choice2": "in the offing",
+        "choice3": "put one's foot down",
+        "choice4": "on the face of it",
+        "answer": 2
+    },
+    {
+        "question": "owe money to a bank",
+        "choice1": "make hay while the sun shines",
+        "choice2": "out and about",
+        "choice3": "in the red",
+        "choice4": "like a bull in a china shop",
+        "answer": 3
+    },
+    {
+        "question": "it is logical",
+        "choice1": "make amends for",
+        "choice2": "it stands to reason",
+        "choice3": "not count one's chickens before they're hatched",
+        "choice4": "off the cuff",
+        "answer": 2
+    },
+    {
+        "question": "sth new or foreign",
+        "choice1": "until one is blue in the face",
+        "choice2": "it's all Greek to me",
+        "choice3": "put on a brave face",
+        "choice4": "take things to pieces",
+        "answer": 2
+    },
+    {
+        "question": "sb who is able to do a variety of jobs",
+        "choice1": "wash sb's hands of sb",
+        "choice2": "on the alert",
+        "choice3": "red tape",
+        "choice4": "jack of all trades",
+        "answer": 4
+    },
+    {
+        "question": "manage to look serious under difficult circumstances",
+        "choice1": "smell a rat",
+        "choice2": "keep a straight face",
+        "choice3": "make allowances for",
+        "choice4": "pitch black",
+        "answer": 2
+    },
+    {
+        "question": "guard/protect sth",
+        "choice1": "swim like a fish",
+        "choice2": "null and void",
+        "choice3": "keep an eye on sth",
+        "choice4": "lend an ear",
+        "answer": 3
+    },
+    {
+        "question": "control",
+        "choice1": "lose one's nerve",
+        "choice2": "keep in check",
+        "choice3": "take sth on the chin",
+        "choice4": "put one's foot in it",
+        "answer": 2
+    },
+    {
+        "question": "not be discouraged",
+        "choice1": "keep one's chin up",
+        "choice2": "the lion's share",
+        "choice3": "not count one's chickens before they're hatched",
+        "choice4": "sleep on it",
+        "answer": 1
+    },
+    {
+        "question": "hope that sth will turn out well",
+        "choice1": "lend sb a hand",
+        "choice2": "out and about",
+        "choice3": "keep one's fingers crossed",
+        "choice4": "show one's true colours",
+        "answer": 3
+    },
+    {
+        "question": "be alert and able to deal with difficulties",
+        "choice1": "on edge",
+        "choice2": "sleep on it",
+        "choice3": "keep one's wits about one",
+        "choice4": "out in the open",
+        "answer": 3
+    },
+    {
+        "question": "live quietly, privately",
+        "choice1": "white-collar job",
+        "choice2": "keep oneself to oneself",
+        "choice3": "kick the bucket",
+        "choice4": "like the back of one's hand",
+        "answer": 2
+    },
+    {
+        "question": "keep sth secret",
+        "choice1": "part company with",
+        "choice2": "keep sth under one's hat",
+        "choice3": "out of turn",
+        "choice4": "tongue in cheek",
+        "answer": 2
+    },
+    {
+        "question": "compete with others in status/material goods",
+        "choice1": "make hay while the sun shines",
+        "choice2": "keep up with the Joneses",
+        "choice3": "part company with",
+        "choice4": "on the blink",
+        "answer": 2
+    },
+    {
+        "question": "die",
+        "choice1": "put sb's name forward",
+        "choice2": "look at sth though rose-coloured spectacles",
+        "choice3": "make hay while the sun shines",
+        "choice4": "kick the bucket",
+        "answer": 4
+    },
+    {
+        "question": "pass time while waiting for sb/sth",
+        "choice1": "null and void",
+        "choice2": "sour grapes",
+        "choice3": "put words into one's mouth",
+        "choice4": "kill time",
+        "answer": 4
+    },
+    {
+        "question": "achieve two things with one action",
+        "choice1": "kill two birds with one stone",
+        "choice2": "until the cows come home",
+        "choice3": "lend sb a hand",
+        "choice4": "play it by ear",
+        "answer": 1
+    },
+    {
+        "question": "know all the details of sth",
+        "choice1": "sleep like a dog",
+        "choice2": "smell a rat",
+        "choice3": "know the ropes",
+        "choice4": "plenty more fish in the sea",
+        "answer": 3
+    },
+    {
+        "question": "make public",
+        "choice1": "show one's true colours",
+        "choice2": "put one's foot down",
+        "choice3": "the pot calling the kettle black",
+        "choice4": "lay bare",
+        "answer": 4
+    },
+    {
+        "question": "set the table for a meal",
+        "choice1": "look down one's nose at sb",
+        "choice2": "lay the table",
+        "choice3": "lose one's nerve",
+        "choice4": "smell a rat",
+        "answer": 2
+    },
+    {
+        "question": "listen to sb in a careful and sympathetic way",
+        "choice1": "meet behind closed doors",
+        "choice2": "take sb for granted",
+        "choice3": "lend an ear",
+        "choice4": "not count one's chickens before they're hatched",
+        "answer": 3
+    },
+    {
+        "question": "give help to sb",
+        "choice1": "through thick and thin",
+        "choice2": "without fail",
+        "choice3": "sth comes in handy",
+        "choice4": "lend sb a hand",
+        "answer": 4
+    },
+    {
+        "question": "avoid mentioning a subject which could cause trouble",
+        "choice1": "lose one's head",
+        "choice2": "stew in one's own juice",
+        "choice3": "of all people",
+        "choice4": "let sleeping dogs lie",
+        "answer": 4
+    },
+    {
+        "question": "reveal a secret",
+        "choice1": "let the cat out of the bag",
+        "choice2": "the ins and outs",
+        "choice3": "lose one's head",
+        "choice4": "red herring",
+        "answer": 1
+    },
+    {
+        "question": "behave in a clumsy/ awkward way",
+        "choice1": "spill the beans",
+        "choice2": "sweet tooth",
+        "choice3": "like a bull in a china shop",
+        "choice4": "play truant",
+        "answer": 3
+    },
+    {
+        "question": "be very familiar with sth",
+        "choice1": "pitch black",
+        "choice2": "work a miracle",
+        "choice3": "take one's time",
+        "choice4": "like the back of one's hand",
+        "answer": 4
+    },
+    {
+        "question": "having no effect",
+        "choice1": "on the spur of the moment",
+        "choice2": "play truant",
+        "choice3": "like water off a duck's back",
+        "choice4": "once and for all",
+        "answer": 3
+    },
+    {
+        "question": "travel often/not have a permanent home",
+        "choice1": "until one is blue in the face",
+        "choice2": "status symbol",
+        "choice3": "live out of a suitcase",
+        "choice4": "make a killing",
+        "answer": 3
+    },
+    {
+        "question": "see sth from an unrealistically positive point of view",
+        "choice1": "play one's cards right",
+        "choice2": "show one's true colours",
+        "choice3": "pick someone's brains",
+        "choice4": "look at sth though rose-coloured spectacles",
+        "answer": 4
+    },
+    {
+        "question": "feel/act superior to sb",
+        "choice1": "look down one's nose at sb",
+        "choice2": "lost cause",
+        "choice3": "out of the blue",
+        "choice4": "not count one's chickens before they're hatched",
+        "answer": 1
+    },
+    {
+        "question": "become discouraged",
+        "choice1": "off the record",
+        "choice2": "not be one's cup of tea",
+        "choice3": "lose heart",
+        "choice4": "smell a rat",
+        "answer": 3
+    },
+    {
+        "question": "lose self-control",
+        "choice1": "wet behind the ears",
+        "choice2": "lose one's head",
+        "choice3": "slip one's mind",
+        "choice4": "make one's blood boil",
+        "answer": 2
+    },
+    {
+        "question": "lose courage",
+        "choice1": "lose one's nerve",
+        "choice2": "make a flying visit",
+        "choice3": "on the alert",
+        "choice4": "ring a bell",
+        "answer": 1
+    },
+    {
+        "question": "hopeless situation or case",
+        "choice1": "make one's getaway",
+        "choice2": "sleep like a dog",
+        "choice3": "make sb's day",
+        "choice4": "lost cause",
+        "answer": 4
+    },
+    {
+        "question": "confess",
+        "choice1": "put one's foot down",
+        "choice2": "make a clean breast of",
+        "choice3": "take sth on the chin",
+        "choice4": "up and coming",
+        "answer": 2
+    },
+    {
+        "question": "make a mess of sth",
+        "choice1": "make a name for oneself",
+        "choice2": "make a dog's dinner",
+        "choice3": "without fail",
+        "choice4": "up and coming",
+        "answer": 2
+    },
+    {
+        "question": "make a quick trip",
+        "choice1": "make a flying visit",
+        "choice2": "up and coming",
+        "choice3": "put two and two together",
+        "choice4": "out and about",
+        "answer": 1
+    },
+    {
+        "question": "make oneself look stupid",
+        "choice1": "make a fool of oneself",
+        "choice2": "on the ball",
+        "choice3": "pop the question",
+        "choice4": "sth comes in handy",
+        "answer": 1
+    },
+    {
+        "question": "have a sudden, great success",
+        "choice1": "make a killing",
+        "choice2": "on no account",
+        "choice3": "meet behind closed doors",
+        "choice4": "make sb's day",
+        "answer": 1
+    },
+    {
+        "question": "earn money",
+        "choice1": "status symbol",
+        "choice2": "the tip of the iceberg",
+        "choice3": "ups and downs",
+        "choice4": "make a living",
+        "answer": 4
+    },
+    {
+        "question": "cause a fuss about a trivial matter",
+        "choice1": "white-collar job",
+        "choice2": "make waves",
+        "choice3": "out and about",
+        "choice4": "make a mountain out of a molehill",
+        "answer": 4
+    },
+    {
+        "question": "become famous/respected for sth",
+        "choice1": "make a name for oneself",
+        "choice2": "turn a blind eye to sth",
+        "choice3": "see fit",
+        "choice4": "paint the town red",
+        "answer": 1
+    },
+    {
+        "question": "take special circumstances into consideration",
+        "choice1": "sour grapes",
+        "choice2": "on the face of it",
+        "choice3": "make allowances for",
+        "choice4": "mutton dressed as a lamb",
+        "answer": 3
+    },
+    {
+        "question": "try to compensate for a past action",
+        "choice1": "not have the foggiest idea",
+        "choice2": "no wonder",
+        "choice3": "pitch black",
+        "choice4": "make amends for",
+        "answer": 4
+    },
+    {
+        "question": "act together to achieve aim",
+        "choice1": "shed light upon",
+        "choice2": "sleep on it",
+        "choice3": "null and void",
+        "choice4": "make common cause with sb",
+        "answer": 4
+    },
+    {
+        "question": "take advantage of favourable circumstances",
+        "choice1": "see the back of",
+        "choice2": "throw a party",
+        "choice3": "make hay while the sun shines",
+        "choice4": "on the level",
+        "answer": 3
+    },
+    {
+        "question": "understand sth",
+        "choice1": "put on a brave face",
+        "choice2": "straight from the horse's mouth",
+        "choice3": "swim like a fish",
+        "choice4": "make head nor tail of",
+        "answer": 4
+    },
+    {
+        "question": "treat sth as unimportant",
+        "choice1": "stay clear of",
+        "choice2": "take sth with a pinch of salt",
+        "choice3": "make light of",
+        "choice4": "of its own accord",
+        "answer": 3
+    },
+    {
+        "question": "make a lot of money quickly and easily",
+        "choice1": "put on a brave face",
+        "choice2": "null and void",
+        "choice3": "make money hand over fist",
+        "choice4": "on the dole",
+        "answer": 3
+    },
+    {
+        "question": "cause sb to become very angry",
+        "choice1": "out-and-out",
+        "choice2": "make one's blood boil",
+        "choice3": "the lion's share",
+        "choice4": "show one's true colours",
+        "answer": 2
+    },
+    {
+        "question": "escape",
+        "choice1": "make sb's day",
+        "choice2": "make one's getaway",
+        "choice3": "off the point",
+        "choice4": "put one's foot in it",
+        "answer": 2
+    },
+    {
+        "question": "become angry in a dramatic way",
+        "choice1": "make quite a scene",
+        "choice2": "swim like a fish",
+        "choice3": "through thick and thin",
+        "choice4": "on the ball",
+        "answer": 1
+    },
+    {
+        "question": "make sb very happy",
+        "choice1": "pull one's leg",
+        "choice2": "make sb's day",
+        "choice3": "take things to pieces",
+        "choice4": "on the alert",
+        "answer": 2
+    },
+    {
+        "question": "cause trouble",
+        "choice1": "on the dot",
+        "choice2": "pull one's socks up",
+        "choice3": "make waves",
+        "choice4": "once in a blue moon",
+        "answer": 3
+    },
+    {
+        "question": "meet secretly",
+        "choice1": "out of the frying pan into the fire",
+        "choice2": "meet behind closed doors",
+        "choice3": "the rat race",
+        "choice4": "set in one's ways",
+        "answer": 2
+    },
+    {
+        "question": "look miserable",
+        "choice1": "of all people",
+        "choice2": "take sth to heart",
+        "choice3": "put the cat among the pigeons",
+        "choice4": "moon around",
+        "answer": 4
+    },
+    {
+        "question": "sb is more important or interesting than is first seen",
+        "choice1": "more to sb than meets the eye",
+        "choice2": "off the point",
+        "choice3": "wet behind the ears",
+        "choice4": "up and coming",
+        "answer": 1
+    },
+    {
+        "question": "dress in a style younger than or inappropriate to your age",
+        "choice1": "sleep on it",
+        "choice2": "mutton dressed as a lamb",
+        "choice3": "not be one's cup of tea",
+        "choice4": "swim like a fish",
+        "answer": 2
+    },
+    {
+        "question": "no room at all",
+        "choice1": "put words into one's mouth",
+        "choice2": "on the dole",
+        "choice3": "plenty more fish in the sea",
+        "choice4": "no room to swing a cat",
+        "answer": 4
+    },
+    {
+        "question": "not surprising",
+        "choice1": "to no effect",
+        "choice2": "out-and-out",
+        "choice3": "no wonder",
+        "choice4": "play cat and mouse with sb",
+        "answer": 3
+    },
+    {
+        "question": "not as good as people say it is",
+        "choice1": "on the ball",
+        "choice2": "off the point",
+        "choice3": "on the blink",
+        "choice4": "not all it's cracked up to be",
+        "answer": 4
+    },
+    {
+        "question": "not suit one's taste",
+        "choice1": "the ins and outs",
+        "choice2": "paint the town red",
+        "choice3": "not be one's cup of tea",
+        "choice4": "put the cat among the pigeons",
+        "answer": 3
+    },
+    {
+        "question": "not assume sth before it happens",
+        "choice1": "not count one's chickens before they're hatched",
+        "choice2": "of all people",
+        "choice3": "without fail",
+        "choice4": "of its own accord",
+        "answer": 1
+    },
+    {
+        "question": "refuse to make a decision between two pleasant things",
+        "choice1": "not have it both ways",
+        "choice2": "once in a blue moon",
+        "choice3": "play it by ear",
+        "choice4": "work to rule",
+        "answer": 1
+    },
+    {
+        "question": "not know sth at all",
+        "choice1": "on account of",
+        "choice2": "stew in one's own juice",
+        "choice3": "on the ball",
+        "choice4": "not have the foggiest idea",
+        "answer": 4
+    },
+    {
+        "question": "not seem reasonable or in accordance with the facts",
+        "choice1": "status symbol",
+        "choice2": "not hold water",
+        "choice3": "of all people",
+        "choice4": "work a miracle",
+        "answer": 2
+    },
+    {
+        "question": "not worry about sth",
+        "choice1": "not lose any sleep over sth",
+        "choice2": "put down roots",
+        "choice3": "see eye to eye with sb",
+        "choice4": "until one is blue in the face",
+        "answer": 1
+    },
+    {
+        "question": "invalid",
+        "choice1": "on the level",
+        "choice2": "null and void",
+        "choice3": "play one's cards right",
+        "choice4": "on edge",
+        "answer": 2
+    },
+    {
+        "question": "used to express annoyance/surprise",
+        "choice1": "on the spur of the moment",
+        "choice2": "on the dot",
+        "choice3": "on the level",
+        "choice4": "of all people",
+        "answer": 4
+    },
+    {
+        "question": "automatically",
+        "choice1": "talk the hind legs off a donkey",
+        "choice2": "of its own accord",
+        "choice3": "short and sweet",
+        "choice4": "once in a blue moon",
+        "answer": 2
+    },
+    {
+        "question": "of no value",
+        "choice1": "until the cows come home",
+        "choice2": "see fit",
+        "choice3": "tooth and nail",
+        "choice4": "of no consequence",
+        "answer": 4
+    },
+    {
+        "question": "look/be slightly unwell",
+        "choice1": "on the ball",
+        "choice2": "off colour",
+        "choice3": "take sth to heart",
+        "choice4": "on the dole",
+        "answer": 2
+    },
+    {
+        "question": "without preparation",
+        "choice1": "the life and soul of sth",
+        "choice2": "off the cuff",
+        "choice3": "put down roots",
+        "choice4": "sleep like a dog",
+        "answer": 2
+    },
+    {
+        "question": "irrelevant",
+        "choice1": "on the quiet",
+        "choice2": "out-and-out",
+        "choice3": "off the point",
+        "choice4": "white elephant",
+        "answer": 3
+    },
+    {
+        "question": "unofficial(ly)",
+        "choice1": "speak volumes",
+        "choice2": "ups and downs",
+        "choice3": "out of the question",
+        "choice4": "off the record",
+        "answer": 4
+    },
+    {
+        "question": "on a very small budget",
+        "choice1": "speak volumes",
+        "choice2": "on a shoe string",
+        "choice3": "under the weather",
+        "choice4": "play one's cards right",
+        "answer": 2
+    },
+    {
+        "question": "because of",
+        "choice1": "on account of",
+        "choice2": "on edge",
+        "choice3": "take sth into account",
+        "choice4": "status symbol",
+        "answer": 1
+    },
+    {
+        "question": "tense/nervous/ anxious",
+        "choice1": "on edge",
+        "choice2": "see red",
+        "choice3": "slip one's mind",
+        "choice4": "until the cows come home",
+        "answer": 1
+    },
+    {
+        "question": "under/in no circumstances",
+        "choice1": "on no account",
+        "choice2": "work to rule",
+        "choice3": "until the cows come home",
+        "choice4": "take sth into account",
+        "answer": 1
+    },
+    {
+        "question": "having changed one's mind",
+        "choice1": "pop the question",
+        "choice2": "on the quiet",
+        "choice3": "out of turn",
+        "choice4": "on second thoughts",
+        "answer": 4
+    },
+    {
+        "question": "broadcasting",
+        "choice1": "put down roots",
+        "choice2": "spill the beans",
+        "choice3": "on the air",
+        "choice4": "take to one's heels",
+        "answer": 3
+    },
+    {
+        "question": "watchful and prepared",
+        "choice1": "on the alert",
+        "choice2": "out in the open",
+        "choice3": "stew in one's own juice",
+        "choice4": "slow on the uptake",
+        "answer": 1
+    },
+    {
+        "question": "alert",
+        "choice1": "the black sheep of the family",
+        "choice2": "on the dot",
+        "choice3": "out of bounds",
+        "choice4": "on the ball",
+        "answer": 4
+    },
+    {
+        "question": "stop working properly (of electrical equipment)",
+        "choice1": "on the blink",
+        "choice2": "rain cats and dogs",
+        "choice3": "take to one's heels",
+        "choice4": "ups and downs",
+        "answer": 1
+    },
+    {
+        "question": "receiving unemployment benefit/social security",
+        "choice1": "on the dole",
+        "choice2": "the black sheep of the family",
+        "choice3": "once in a blue moon",
+        "choice4": "ring a bell",
+        "answer": 1
+    },
+    {
+        "question": "punctual, exact on time",
+        "choice1": "take sth with a pinch of salt",
+        "choice2": "one's flesh and blood",
+        "choice3": "up and coming",
+        "choice4": "on the dot",
+        "answer": 4
+    },
+    {
+        "question": "judging by how sth appears",
+        "choice1": "put two and two together",
+        "choice2": "up in the air",
+        "choice3": "on the face of it",
+        "choice4": "put on a brave face",
+        "answer": 3
+    },
+    {
+        "question": "honest/sincere",
+        "choice1": "take sth into account",
+        "choice2": "shed light upon",
+        "choice3": "status symbol",
+        "choice4": "on the level",
+        "answer": 4
+    },
+    {
+        "question": "secretly",
+        "choice1": "on the quiet",
+        "choice2": "sth comes in handy",
+        "choice3": "pull one's leg",
+        "choice4": "until one is blue in the face",
+        "answer": 1
+    },
+    {
+        "question": "without thinking about sth",
+        "choice1": "rise to the challenge",
+        "choice2": "on the spur of the moment",
+        "choice3": "paint the town red",
+        "choice4": "part and parcel of",
+        "answer": 2
+    },
+    {
+        "question": "for this/that reason",
+        "choice1": "up and coming",
+        "choice2": "on this/that account",
+        "choice3": "smell a rat",
+        "choice4": "wet behind the ears",
+        "answer": 2
+    },
+    {
+        "question": "for the last time",
+        "choice1": "pick someone's brains",
+        "choice2": "to no effect",
+        "choice3": "see the back of",
+        "choice4": "once and for all",
+        "answer": 4
+    },
+    {
+        "question": "very rarely",
+        "choice1": "the ins and outs",
+        "choice2": "short and sweet",
+        "choice3": "take it easy",
+        "choice4": "once in a blue moon",
+        "answer": 4
+    },
+    {
+        "question": "family member",
+        "choice1": "the tip of the iceberg",
+        "choice2": "the black sheep of the family",
+        "choice3": "one's flesh and blood",
+        "choice4": "out of the frying pan into the fire",
+        "answer": 3
+    },
+    {
+        "question": "not decided/settled",
+        "choice1": "take one's time",
+        "choice2": "take to one's heels",
+        "choice3": "open to debate",
+        "choice4": "put sb's name forward",
+        "answer": 3
+    },
+    {
+        "question": "outdoors",
+        "choice1": "the lion's share",
+        "choice2": "out and about",
+        "choice3": "part company with",
+        "choice4": "pay sb's way",
+        "answer": 2
+    },
+    {
+        "question": "(of secrets) revealed, known",
+        "choice1": "until the cows come home",
+        "choice2": "out in the open",
+        "choice3": "white-collar job",
+        "choice4": "red herring",
+        "answer": 2
+    },
+    {
+        "question": "prohibited, forbidden (place)",
+        "choice1": "work a miracle",
+        "choice2": "paint the town red",
+        "choice3": "out of bounds",
+        "choice4": "out of the frying pan into the fire",
+        "answer": 3
+    },
+    {
+        "question": "(of books) not available anymore",
+        "choice1": "the rat race",
+        "choice2": "out of print",
+        "choice3": "pull a few strings",
+        "choice4": "to no effect",
+        "answer": 2
+    },
+    {
+        "question": "suddenly and unexpectedly",
+        "choice1": "out of the blue",
+        "choice2": "put words into one's mouth",
+        "choice3": "turn a blind eye to sth",
+        "choice4": "stew in one's own juice",
+        "answer": 1
+    },
+    {
+        "question": "from a situation to a worse/similar one",
+        "choice1": "put one's foot down",
+        "choice2": "to no effect",
+        "choice3": "out of the frying pan into the fire",
+        "choice4": "sour grapes",
+        "answer": 3
+    },
+    {
+        "question": "impossible",
+        "choice1": "out of the question",
+        "choice2": "see fit",
+        "choice3": "stand in sb's way",
+        "choice4": "under the weather",
+        "answer": 1
+    },
+    {
+        "question": "not in the correct order/time",
+        "choice1": "out of turn",
+        "choice2": "red tape",
+        "choice3": "take to one's heels",
+        "choice4": "the black sheep of the family",
+        "answer": 1
+    },
+    {
+        "question": "complete, total",
+        "choice1": "out-and-out",
+        "choice2": "under the weather",
+        "choice3": "whet sb's appetite",
+        "choice4": "play one's cards right",
+        "answer": 1
+    },
+    {
+        "question": "have a great time",
+        "choice1": "short and sweet",
+        "choice2": "paint the town red",
+        "choice3": "white elephant",
+        "choice4": "work to rule",
+        "answer": 2
+    },
+    {
+        "question": "basic part of",
+        "choice1": "stand in sb's way",
+        "choice2": "the year dot",
+        "choice3": "part and parcel of",
+        "choice4": "pull one's socks up",
+        "answer": 3
+    },
+    {
+        "question": "end association",
+        "choice1": "tongue in cheek",
+        "choice2": "take one's time",
+        "choice3": "work a miracle",
+        "choice4": "part company with",
+        "answer": 4
+    },
+    {
+        "question": "contribute your shares of a bill",
+        "choice1": "pull one's socks up",
+        "choice2": "white-collar job",
+        "choice3": "pay sb's way",
+        "choice4": "sweet tooth",
+        "answer": 3
+    },
+    {
+        "question": "ask sb to help with a problem",
+        "choice1": "slip one's mind",
+        "choice2": "throw a party",
+        "choice3": "pick someone's brains",
+        "choice4": "pull one's leg",
+        "answer": 3
+    },
+    {
+        "question": "very dark",
+        "choice1": "pitch black",
+        "choice2": "plenty more fish in the sea",
+        "choice3": "pull a few strings",
+        "choice4": "sweet tooth",
+        "answer": 1
+    },
+    {
+        "question": "keep sb in a state of uncertain expectation treating them alternatively cruelly and kindly",
+        "choice1": "see red",
+        "choice2": "slow on the uptake",
+        "choice3": "play cat and mouse with sb",
+        "choice4": "the black sheep of the family",
+        "answer": 3
+    },
+    {
+        "question": "act in a situation by responding to events rather than according to plan",
+        "choice1": "slow on the uptake",
+        "choice2": "short and sweet",
+        "choice3": "play it by ear",
+        "choice4": "shed light upon",
+        "answer": 3
+    },
+    {
+        "question": "act cleverly",
+        "choice1": "play one's cards right",
+        "choice2": "rise to the challenge",
+        "choice3": "tongue in cheek",
+        "choice4": "see the back of",
+        "answer": 1
+    },
+    {
+        "question": "stay away from school without permission",
+        "choice1": "play truant",
+        "choice2": "wet behind the ears",
+        "choice3": "pull a few strings",
+        "choice4": "put one's heart and soul into sth",
+        "answer": 1
+    },
+    {
+        "question": "many more opportunities in life for love",
+        "choice1": "pop the question",
+        "choice2": "the pot calling the kettle black",
+        "choice3": "rain cats and dogs",
+        "choice4": "plenty more fish in the sea",
+        "answer": 4
+    },
+    {
+        "question": "blame sb for sth",
+        "choice1": "talk the hind legs off a donkey",
+        "choice2": "point the finger of suspicion",
+        "choice3": "set in one's ways",
+        "choice4": "work a miracle",
+        "answer": 2
+    },
+    {
+        "question": "make a proposal of marriage",
+        "choice1": "set in one's ways",
+        "choice2": "put a damper on",
+        "choice3": "up in the air",
+        "choice4": "pop the question",
+        "answer": 4
+    },
+    {
+        "question": "use influential contacts in order to obtain an advantage",
+        "choice1": "sleep like a dog",
+        "choice2": "put on a brave face",
+        "choice3": "pull a few strings",
+        "choice4": "put sb's name forward",
+        "answer": 3
+    },
+    {
+        "question": "tease or trick sb",
+        "choice1": "pull one's leg",
+        "choice2": "take to one's heels",
+        "choice3": "see fit",
+        "choice4": "until one is blue in the face",
+        "answer": 1
+    },
+    {
+        "question": "make a greater effort",
+        "choice1": "the black sheep of the family",
+        "choice2": "wet behind the ears",
+        "choice3": "pull one's socks up",
+        "choice4": "up and coming",
+        "answer": 3
+    },
+    {
+        "question": "ruin sth or make it less enjoyable",
+        "choice1": "sleep on it",
+        "choice2": "put a damper on",
+        "choice3": "shed light upon",
+        "choice4": "up and coming",
+        "answer": 2
+    },
+    {
+        "question": "settle down",
+        "choice1": "until the cows come home",
+        "choice2": "put down roots",
+        "choice3": "strike gold",
+        "choice4": "wet blanket",
+        "answer": 2
+    },
+    {
+        "question": "try to hide one's disappointment",
+        "choice1": "white elephant",
+        "choice2": "put on a brave face",
+        "choice3": "sweet tooth",
+        "choice4": "straight from the horse's mouth",
+        "answer": 2
+    },
+    {
+        "question": "insist on sth",
+        "choice1": "tooth and nail",
+        "choice2": "put one's foot down",
+        "choice3": "rack sb's brains",
+        "choice4": "talk the hind legs off a donkey",
+        "answer": 2
+    },
+    {
+        "question": "make a tactless comment",
+        "choice1": "up in the air",
+        "choice2": "put sb's name forward",
+        "choice3": "put one's foot in it",
+        "choice4": "take one's time",
+        "answer": 3
+    },
+    {
+        "question": "be devoted to sth",
+        "choice1": "talk the hind legs off a donkey",
+        "choice2": "put one's heart and soul into sth",
+        "choice3": "rack sb's brains",
+        "choice4": "slip one's mind",
+        "answer": 2
+    },
+    {
+        "question": "nominate sb",
+        "choice1": "the ins and outs",
+        "choice2": "take sb for granted",
+        "choice3": "slip one's mind",
+        "choice4": "put sb's name forward",
+        "answer": 4
+    },
+    {
+        "question": "cause trouble/controversy",
+        "choice1": "sour grapes",
+        "choice2": "put the cat among the pigeons",
+        "choice3": "rise to the challenge",
+        "choice4": "wash sb's hands of sb",
+        "answer": 2
+    },
+    {
+        "question": "arrive at the truth by looking at facts",
+        "choice1": "see fit",
+        "choice2": "status symbol",
+        "choice3": "put two and two together",
+        "choice4": "rise to the challenge",
+        "answer": 3
+    },
+    {
+        "question": "pretend that sb has said sth that they haven't actually said",
+        "choice1": "see eye to eye with sb",
+        "choice2": "white elephant",
+        "choice3": "to no effect",
+        "choice4": "put words into one's mouth",
+        "answer": 4
+    },
+    {
+        "question": "think very hard about sth",
+        "choice1": "up in the air",
+        "choice2": "ups and downs",
+        "choice3": "rack sb's brains",
+        "choice4": "with flying colours",
+        "answer": 3
+    },
+    {
+        "question": "rain heavily",
+        "choice1": "smell a rat",
+        "choice2": "white-collar job",
+        "choice3": "wash sb's hands of sb",
+        "choice4": "rain cats and dogs",
+        "answer": 4
+    },
+    {
+        "question": "sth which distracts you from sth important",
+        "choice1": "spill the beans",
+        "choice2": "wash sb's hands of sb",
+        "choice3": "red herring",
+        "choice4": "smell a rat",
+        "answer": 3
+    },
+    {
+        "question": "unnecessary bureaucracy",
+        "choice1": "sleep on it",
+        "choice2": "take it easy",
+        "choice3": "slow on the uptake",
+        "choice4": "red tape",
+        "answer": 4
+    },
+    {
+        "question": "remind sb of sth",
+        "choice1": "ring a bell",
+        "choice2": "turn a blind eye to sth",
+        "choice3": "touch and go",
+        "choice4": "swim like a fish",
+        "answer": 1
+    },
+    {
+        "question": "act and be successful even though sth is new",
+        "choice1": "take sth into account",
+        "choice2": "talk the hind legs off a donkey",
+        "choice3": "rise to the challenge",
+        "choice4": "touch and go",
+        "answer": 3
+    },
+    {
+        "question": "agree with sb",
+        "choice1": "strike a chord",
+        "choice2": "wet behind the ears",
+        "choice3": "take sth into account",
+        "choice4": "see eye to eye with sb",
+        "answer": 4
+    },
+    {
+        "question": "think suitable or right",
+        "choice1": "take the bull by the horns",
+        "choice2": "shed light upon",
+        "choice3": "see fit",
+        "choice4": "take sth with a pinch of salt",
+        "answer": 3
+    },
+    {
+        "question": "suddenly become very angry",
+        "choice1": "take one's time",
+        "choice2": "the lion's share",
+        "choice3": "take it easy",
+        "choice4": "see red",
+        "answer": 4
+    },
+    {
+        "question": "be glad to see sb leave",
+        "choice1": "see the back of",
+        "choice2": "take it easy",
+        "choice3": "the lion's share",
+        "choice4": "with a view to doing sth",
+        "answer": 1
+    },
+    {
+        "question": "fixed in one's habits",
+        "choice1": "sweet tooth",
+        "choice2": "the lion's share",
+        "choice3": "set in one's ways",
+        "choice4": "touch and go",
+        "answer": 3
+    },
+    {
+        "question": "give new/further information",
+        "choice1": "the year dot",
+        "choice2": "take things to pieces",
+        "choice3": "stew in one's own juice",
+        "choice4": "shed light upon",
+        "answer": 4
+    },
+    {
+        "question": "brief but pleasant (usually ironic)",
+        "choice1": "take one's time",
+        "choice2": "take sth with a pinch of salt",
+        "choice3": "take things to pieces",
+        "choice4": "short and sweet",
+        "answer": 4
+    },
+    {
+        "question": "reveal one's real character",
+        "choice1": "slip one's mind",
+        "choice2": "take sth to heart",
+        "choice3": "wet behind the ears",
+        "choice4": "show one's true colours",
+        "answer": 4
+    },
+    {
+        "question": "be sound asleep",
+        "choice1": "until one is blue in the face",
+        "choice2": "strike a chord",
+        "choice3": "sleep like a dog",
+        "choice4": "until the cows come home",
+        "answer": 3
+    },
+    {
+        "question": "think about sth",
+        "choice1": "speak volumes",
+        "choice2": "sleep on it",
+        "choice3": "ups and downs",
+        "choice4": "touch and go",
+        "answer": 2
+    },
+    {
+        "question": "forget about sth",
+        "choice1": "slip one's mind",
+        "choice2": "take sb for granted",
+        "choice3": "touch and go",
+        "choice4": "white elephant",
+        "answer": 1
+    },
+    {
+        "question": "slow to understand",
+        "choice1": "whet sb's appetite",
+        "choice2": "the year dot",
+        "choice3": "slow on the uptake",
+        "choice4": "the tip of the iceberg",
+        "answer": 3
+    },
+    {
+        "question": "suspect that sth is wrong",
+        "choice1": "take one's time",
+        "choice2": "wet behind the ears",
+        "choice3": "smell a rat",
+        "choice4": "the pot calling the kettle black",
+        "answer": 3
+    },
+    {
+        "question": "say unpleasant comments because of jealousy",
+        "choice1": "whet sb's appetite",
+        "choice2": "sour grapes",
+        "choice3": "take sth on the chin",
+        "choice4": "swim like a fish",
+        "answer": 2
+    },
+    {
+        "question": "be strong evidence of sb's feelings or merits",
+        "choice1": "the rat race",
+        "choice2": "speak volumes",
+        "choice3": "sth comes in handy",
+        "choice4": "under the weather",
+        "answer": 2
+    },
+    {
+        "question": "reveal a secret/the facts",
+        "choice1": "ups and downs",
+        "choice2": "throw a party",
+        "choice3": "spill the beans",
+        "choice4": "strike gold",
+        "answer": 3
+    },
+    {
+        "question": "prevent sb from doing sth",
+        "choice1": "the last straw",
+        "choice2": "the rat race",
+        "choice3": "stand in sb's way",
+        "choice4": "take sth into account",
+        "answer": 3
+    },
+    {
+        "question": "property/possession that shows sb's high social rank wealth etc.",
+        "choice1": "status symbol",
+        "choice2": "straight from the horse's mouth",
+        "choice3": "white-collar job",
+        "choice4": "wet blanket",
+        "answer": 1
+    },
+    {
+        "question": "avoid sb/sth",
+        "choice1": "the ins and outs",
+        "choice2": "the rat race",
+        "choice3": "stay clear of",
+        "choice4": "white-collar job",
+        "answer": 3
+    },
+    {
+        "question": "suffer the consequences of one's own action",
+        "choice1": "stew in one's own juice",
+        "choice2": "strike a chord",
+        "choice3": "up and coming",
+        "choice4": "the ins and outs",
+        "answer": 1
+    },
+    {
+        "question": "be very useful/practical",
+        "choice1": "wash sb's hands of sb",
+        "choice2": "thick-skinned",
+        "choice3": "take sth with a pinch of salt",
+        "choice4": "sth comes in handy",
+        "answer": 4
+    },
+    {
+        "question": "from the most direct source",
+        "choice1": "strike a chord",
+        "choice2": "take sth with a pinch of salt",
+        "choice3": "take to one's heels",
+        "choice4": "straight from the horse's mouth",
+        "answer": 4
+    },
+    {
+        "question": "make sb feel sympathy",
+        "choice1": "take sth on the chin",
+        "choice2": "the life and soul of sth",
+        "choice3": "strike gold",
+        "choice4": "strike a chord",
+        "answer": 4
+    },
+    {
+        "question": "come across sth useful",
+        "choice1": "strike gold",
+        "choice2": "take the bull by the horns",
+        "choice3": "up and coming",
+        "choice4": "whet sb's appetite",
+        "answer": 1
+    },
+    {
+        "question": "enjoy eating sweet things",
+        "choice1": "up and coming",
+        "choice2": "to no effect",
+        "choice3": "wet behind the ears",
+        "choice4": "sweet tooth",
+        "answer": 4
+    },
+    {
+        "question": "swim very well",
+        "choice1": "throw a party",
+        "choice2": "the pot calling the kettle black",
+        "choice3": "the lion's share",
+        "choice4": "swim like a fish",
+        "answer": 4
+    },
+    {
+        "question": "not work too hard/relax",
+        "choice1": "to no effect",
+        "choice2": "ups and downs",
+        "choice3": "take it easy",
+        "choice4": "under the weather",
+        "answer": 3
+    },
+    {
+        "question": "not to hurry",
+        "choice1": "the year dot",
+        "choice2": "to no effect",
+        "choice3": "the tip of the iceberg",
+        "choice4": "take one's time",
+        "answer": 4
+    },
+    {
+        "question": "not appreciate sb",
+        "choice1": "the pot calling the kettle black",
+        "choice2": "up and coming",
+        "choice3": "take sth on the chin",
+        "choice4": "take sb for granted",
+        "answer": 4
+    },
+    {
+        "question": "consider sth",
+        "choice1": "up and coming",
+        "choice2": "tooth and nail",
+        "choice3": "take sth into account",
+        "choice4": "the pot calling the kettle black",
+        "answer": 3
+    },
+    {
+        "question": "bravely accept criticism",
+        "choice1": "turn a blind eye to sth",
+        "choice2": "take sth on the chin",
+        "choice3": "thick-skinned",
+        "choice4": "turn over a new leaf",
+        "answer": 2
+    },
+    {
+        "question": "take personally/be influenced by",
+        "choice1": "turn a blind eye to sth",
+        "choice2": "take the bull by the horns",
+        "choice3": "the ins and outs",
+        "choice4": "take sth to heart",
+        "answer": 4
+    },
+    {
+        "question": "not believe sth completely",
+        "choice1": "take sth with a pinch of salt",
+        "choice2": "white elephant",
+        "choice3": "tooth and nail",
+        "choice4": "thick-skinned",
+        "answer": 1
+    },
+    {
+        "question": "deal with sth boldly and directly",
+        "choice1": "the life and soul of sth",
+        "choice2": "take the bull by the horns",
+        "choice3": "thick-skinned",
+        "choice4": "turn over a new leaf",
+        "answer": 2
+    },
+    {
+        "question": "dismantle things",
+        "choice1": "wash sb's hands of sb",
+        "choice2": "take things to pieces",
+        "choice3": "the year dot",
+        "choice4": "work a miracle",
+        "answer": 2
+    },
+    {
+        "question": "run away",
+        "choice1": "take to one's heels",
+        "choice2": "wet blanket",
+        "choice3": "talk the hind legs off a donkey",
+        "choice4": "the last straw",
+        "answer": 1
+    },
+    {
+        "question": "talk for a long time, uninterrupted",
+        "choice1": "talk the hind legs off a donkey",
+        "choice2": "work to rule",
+        "choice3": "throw a party",
+        "choice4": "without fail",
+        "answer": 1
+    },
+    {
+        "question": "a disgraced family member",
+        "choice1": "the black sheep of the family",
+        "choice2": "whet sb's appetite",
+        "choice3": "until one is blue in the face",
+        "choice4": "until the cows come home",
+        "answer": 1
+    },
+    {
+        "question": "the details of an activity",
+        "choice1": "through thick and thin",
+        "choice2": "the ins and outs",
+        "choice3": "wet behind the ears",
+        "choice4": "the life and soul of sth",
+        "answer": 2
+    },
+    {
+        "question": "the last and worst episode in a chain of bad experiences",
+        "choice1": "ups and downs",
+        "choice2": "to no effect",
+        "choice3": "the last straw",
+        "choice4": "until the cows come home",
+        "answer": 3
+    },
+    {
+        "question": "the most lively and amusing person present somewhere",
+        "choice1": "the life and soul of sth",
+        "choice2": "wash sb's hands of sb",
+        "choice3": "tongue in cheek",
+        "choice4": "until the cows come home",
+        "answer": 1
+    },
+    {
+        "question": "the biggest part/portion",
+        "choice1": "up in the air",
+        "choice2": "wet blanket",
+        "choice3": "the lion's share",
+        "choice4": "work a miracle",
+        "answer": 3
+    },
+    {
+        "question": "accusing sb of a fault one has oneself",
+        "choice1": "under the weather",
+        "choice2": "turn a blind eye to sth",
+        "choice3": "white-collar job",
+        "choice4": "the pot calling the kettle black",
+        "answer": 4
+    },
+    {
+        "question": "the competitive nature of modern urban life",
+        "choice1": "with a view to doing sth",
+        "choice2": "the rat race",
+        "choice3": "work to rule",
+        "choice4": "wet blanket",
+        "answer": 2
+    },
+    {
+        "question": "small evident part of a much larger, concealed situation",
+        "choice1": "the tip of the iceberg",
+        "choice2": "with flying colours",
+        "choice3": "thick-skinned",
+        "choice4": "tongue in cheek",
+        "answer": 1
+    },
+    {
+        "question": "a long time ago",
+        "choice1": "up and coming",
+        "choice2": "the year dot",
+        "choice3": "white elephant",
+        "choice4": "wet blanket",
+        "answer": 2
+    },
+    {
+        "question": "insensitive",
+        "choice1": "up in the air",
+        "choice2": "touch and go",
+        "choice3": "thick-skinned",
+        "choice4": "until one is blue in the face",
+        "answer": 3
+    },
+    {
+        "question": "whatever happens",
+        "choice1": "through thick and thin",
+        "choice2": "wet behind the ears",
+        "choice3": "work to rule",
+        "choice4": "wet blanket",
+        "answer": 1
+    },
+    {
+        "question": "have/hold a party",
+        "choice1": "wet blanket",
+        "choice2": "tongue in cheek",
+        "choice3": "throw a party",
+        "choice4": "turn a blind eye to sth",
+        "answer": 3
+    },
+    {
+        "question": "unsuccessful",
+        "choice1": "tooth and nail",
+        "choice2": "up and coming",
+        "choice3": "to no effect",
+        "choice4": "turn a blind eye to sth",
+        "answer": 3
+    },
+    {
+        "question": "not serious, ironic",
+        "choice1": "under the weather",
+        "choice2": "tongue in cheek",
+        "choice3": "tooth and nail",
+        "choice4": "white elephant",
+        "answer": 2
+    },
+    {
+        "question": "fiercely",
+        "choice1": "wet behind the ears",
+        "choice2": "tooth and nail",
+        "choice3": "without fail",
+        "choice4": "until the cows come home",
+        "answer": 2
+    },
+    {
+        "question": "with uncertain result",
+        "choice1": "under the weather",
+        "choice2": "white-collar job",
+        "choice3": "touch and go",
+        "choice4": "up and coming",
+        "answer": 3
+    },
+    {
+        "question": "ignore",
+        "choice1": "wet behind the ears",
+        "choice2": "until the cows come home",
+        "choice3": "with a view to doing sth",
+        "choice4": "turn a blind eye to sth",
+        "answer": 4
+    },
+    {
+        "question": "make a new start",
+        "choice1": "up in the air",
+        "choice2": "white-collar job",
+        "choice3": "work a miracle",
+        "choice4": "turn over a new leaf",
+        "answer": 4
+    },
+    {
+        "question": "depressed/unwell",
+        "choice1": "under the weather",
+        "choice2": "wet behind the ears",
+        "choice3": "work a miracle",
+        "choice4": "with flying colours",
+        "answer": 1
+    },
+    {
+        "question": "as hard/long as one possibly can",
+        "choice1": "until one is blue in the face",
+        "choice2": "with flying colours",
+        "choice3": "ups and downs",
+        "choice4": "wash sb's hands of sb",
+        "answer": 1
+    },
+    {
+        "question": "for a long time",
+        "choice1": "ups and downs",
+        "choice2": "white elephant",
+        "choice3": "until the cows come home",
+        "choice4": "wet blanket",
+        "answer": 3
+    },
+    {
+        "question": "likely to be successful",
+        "choice1": "up and coming",
+        "choice2": "without fail",
+        "choice3": "up in the air",
+        "choice4": "wet blanket",
+        "answer": 1
+    },
+    {
+        "question": "existing, but not talked about",
+        "choice1": "up in the air",
+        "choice2": "work to rule",
+        "choice3": "work a miracle",
+        "choice4": "wash sb's hands of sb",
+        "answer": 1
+    },
+    {
+        "question": "good things with bad ones",
+        "choice1": "white elephant",
+        "choice2": "with flying colours",
+        "choice3": "work a miracle",
+        "choice4": "ups and downs",
+        "answer": 4
+    },
+    {
+        "question": "refuse to be involved with sb",
+        "choice1": "wash sb's hands of sb",
+        "choice2": "with flying colours",
+        "choice3": "work a miracle",
+        "choice4": "white-collar job",
+        "answer": 1
+    },
+    {
+        "question": "inexperienced",
+        "choice1": "without fail",
+        "choice2": "wet behind the ears",
+        "choice3": "white-collar job",
+        "choice4": "whet sb's appetite",
+        "answer": 2
+    },
+    {
+        "question": "dull person who spoils people's happiness",
+        "choice1": "white elephant",
+        "choice2": "work a miracle",
+        "choice3": "wet blanket",
+        "choice4": "white-collar job",
+        "answer": 3
+    },
+    {
+        "question": "make sb eager to have/experience more",
+        "choice1": "whet sb's appetite",
+        "choice2": "white elephant",
+        "choice3": "without fail",
+        "choice4": "work a miracle",
+        "answer": 1
+    },
+    {
+        "question": "useless/unwanted possession",
+        "choice1": "white-collar job",
+        "choice2": "white elephant",
+        "choice3": "without fail",
+        "choice4": "work a miracle",
+        "answer": 2
+    },
+    {
+        "question": "office/clerical work",
+        "choice1": "white-collar job",
+        "choice2": "work a miracle",
+        "choice3": "with a view to doing sth",
+        "choice4": "with flying colours",
+        "answer": 1
+    },
+    {
+        "question": "with the intention or hope of doing sth",
+        "choice1": "with a view to doing sth",
+        "choice2": "work to rule",
+        "choice3": "without fail",
+        "choice4": "with flying colours",
+        "answer": 1
+    },
+    {
+        "question": "with great success",
+        "choice1": "without fail",
+        "choice2": "work a miracle",
+        "choice3": "work to rule",
+        "choice4": "with flying colours",
+        "answer": 4
+    }
+]
