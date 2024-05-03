@@ -69,6 +69,23 @@
     padding: 0 40px 0 5px;
     cursor: pointer;
   }
+
+  .btn-home {
+    background-color: rgb(255, 77, 77);
+    padding: 10px 25px;
+    border: 0;
+    border-color: none;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border-radius: 15px;
+  }
+
+  .btn-home:hover{
+    cursor: pointer;
+    background-color: rgb(255, 117, 117);
+  }
+
   .weather-box,
   .weather-details,
   .not-found {
