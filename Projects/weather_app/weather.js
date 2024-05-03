@@ -46,27 +46,29 @@ search.addEventListener("click", () => {
           container.classList.remove("active");
         }, 2500);
 
+        //Ponemos las imagenes del tiempo actual Nubes, Soleado...
+        
         switch (json.weather[0].main) {
           case "Clear":
-            image.src = "/Assets/images/clear.png";
+            image.src = "Assets/clear.png";
             break;
           case "Rain":
-            image.src = "/Assets/images/rain.png";
+            image.src = "Assets/rain.png";
             break;
           case "Snow":
             image.src = "/Assets/images/snow.png";
             break;
           case "Clouds":
-            image.src = "/Assets/images/cloud.png";
+            image.src = "Assets/cloud.png";
             break;
           case "Mist":
-            image.src = "/Assets/images/mist.png";
+            image.src = "Assets/mist.png";
             break;
           case "Haze":
-            image.src = "/Assets/images/mist.png";
+            image.src = "Assets/mist.png";
             break;
           default:
-            image.src = "/Assets/images/cloud.png";
+            image.src = "Assets/cloud.png";
         }
         temperature.innerHTML = `${parseInt(json.main.temp)}<span>C</span>`;
         description.innerHTML = `${json.weather[0].description}`;
