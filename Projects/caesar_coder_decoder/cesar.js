@@ -76,3 +76,8 @@ cifrador.onsubmit = submit;
 
 // Event listener for toggle button
 toggleBall.addEventListener('click', toggleMode);
+
+//Hide the loading circle after 0.7s
+setTimeout(function() {
+    document.querySelector('.loading-screen').style.display = 'none';
+}, 700);
