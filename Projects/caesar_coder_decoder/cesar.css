@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+
+:root {
+    --color-terminal: #292b36;
+    --borde-redondo: 4px;
+}
+
+* {
+    font-family: 'Source Code Pro', monospace;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1a1a;
+    color: white;
+}
+
+input, button {
+    border: none;
+    outline: none;
+}
+
+main {
+    padding: 25px;
+    box-shadow: 8px 8px 35px 0px rgb(0 0 0 / 75%);
+    border-radius: var(--borde-redondo);
+}
+
+h1 {
+    margin: 0;
+}
+
+h3{
+    text-align: center;
+}
+
+#input-original, #resultado {
+    background-color: var(--color-terminal);
+    width: -webkit-fill-available;
+}
+
+#input-original {
+    margin: 10px 0 0;
+    padding: 10px;
+    color: white;
+    border-top-left-radius: var(--borde-redondo);
+    border-top-right-radius: var(--borde-redondo);
+}
+
+#resultado {
+    height: 20px;
+    color: #5af78d;
+    padding: 0 10px 10px;
+    border-bottom-left-radius: var(--borde-redondo);
+    border-bottom-right-radius: var(--borde-redondo);
+}
+
+.rango {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 30px;
+    text-align: center;
+    align-items: center;
+}
+
+input[type='range'] {
+    -webkit-appearance: none;
+    border-radius: var(--borde-redondo);
+    background:var(--color-terminal);
+    margin: 0;
+    padding: 0 5px;
+    height: 20px;
+}
+
+input[type='range']::-webkit-slider-thumb {
+    cursor: pointer;
+    -webkit-appearance: none;
+    background:white;
+    border-radius: 50%;
+    height:10px;
+    width:10px;
+}
+
+#homeButton {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: rgb(248, 92, 92);
+    color: #ffffff; /* Red color */
+    border: none;
+    padding: 5px 15px; /* Adjusted padding to make it smaller */
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 14px; /* Smaller font size */
+    font-weight: bold;
+    z-index: 9999; /* Ensure the button appears above other content */
+}
+
+#homeButton:hover {
+    background-color: #ff8a8a; /* Red background on hover */
+    color: white; /* White text on hover */
+}
+
+.toggle-label {
+    position: relative;
+    top: 3px;
+    left: 70px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.toggle-checkbox {
+    display: none;
+}
+
+.toggle-container {
+    position: relative;
+    width: 60px;
+    height: 30px;
+    background-color: #555;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.toggle-ball {
+    position: relative;
+    top: -52%;
+    left: 5px;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
+.toggle-checkbox:checked + .toggle-container {
+    background-color: #ff0000; /* Change background color for active state */
+}
+
+.toggle-checkbox:checked + .toggle-container .toggle-ball {
+    transform: translateX(30px); /* Move ball to the right for active state */
+}

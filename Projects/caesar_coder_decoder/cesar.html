@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caesar Cypher Tool</title>
+    <link href="cesar.css" rel="stylesheet " />
+    <script src="cesar.js" type="text/javascript" defer></script>
+</head>
+<body>
+    <main>
+        <a href="../index.html">
+        <button id="homeButton">Home</button>
+        </a>
+        <h1>Caesar Cypher Tool.</h1>
+        <h3>By: DevelopingSlim</h3>
+
+        <input type="checkbox" id="toggleButton" class="toggle-checkbox">
+        <div class="toggle-container">
+            <label for="toggleButton" class="toggle-label">Decoding</label>
+            <div class="toggle-ball"></div>
+        </div>
+        <form id="cifrador" autocomplete="off">
+            <input id="input-original" spellcheck="false" placeholder="Ingrese el texto" type="text" name="text">
+        </form>
+        <div id="resultado"></div>
+        <div class="rango">
+            <input id="rango" type="range" value="10" min="1" max="20" oninput="this.nextElementSibling.value = this.value">
+            <output>10</output>
+        </div>
+    </main>
+</body>
+</html>
