@@ -49,7 +49,7 @@ const printChar = (currentLetterIndex, wordArray) => {
         });
 };
 
-// Function to animate each character
+// Animar cada caracter para print
 const animateChar = spanChar => {
     let cambiosDeLetra = 0;
     return new Promise(resolve => {
@@ -64,17 +64,15 @@ const animateChar = spanChar => {
     });
 };
 
-// Function to handle form submission
 const submit = e => {
     e.preventDefault();
     resultado.innerHTML = '';
     shiftMessage();
 };
 
-// Event listener for form submission
 cifrador.onsubmit = submit;
 
-// Event listener for toggle button
+// Listener para el swipe button
 toggleBall.addEventListener('click', toggleMode);
 
 //Hide the loading circle after 0.7s
